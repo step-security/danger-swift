@@ -37,7 +37,7 @@ supported yet. Here's some reasoning:
 - You can't have a build target that has no source files, so you'll need to reference a single file.
 
 These do add up to being a bit of a weird experience, but I've spec'd out what a Danger Swift v2 could look like to work
-around some of these oddities in [danger/swift#139](https://github.com/danger/swift/issues/139).
+around some of these oddities in [step-security/danger-swift#139](https://github.com/step-security/danger-swift/issues/139).
 
 ## Can I use the same Dangerfile across many repos?
 
@@ -67,7 +67,7 @@ sender. This makes it more or less impossible to detect from Danger's side.
 If you run danger with `DEBUG="*"` prefixed, you'll get a lot of information about what's happening under the hood. E.g:
 
 ```sh
-DEBUG="*" [swift run] danger-swift pr https://github.com/danger/swift/pull/95
+DEBUG="*" [swift run] danger-swift pr https://github.com/step-security/danger-swift/pull/95
 ```
 
 or on the CI:
@@ -107,7 +107,7 @@ can DM [orta][].
 [77]: https://github.com/danger/danger-js/issues/77
 [529]: https://github.com/danger/danger-js/issues/529
 [vision.md]: https://github.com/danger/danger-js/blob/master/VISION.md
-[open]: https://github.com/danger/swift/issues?q=is%3Aissue+is%3Aopen+label%3A%22Open+for+Discussion%22
-[you-can-do-this]: https://github.com/danger/swift/issues?q=is%3Aissue+is%3Aopen+label%3A%22You+Can+Do+This%22
+[open]: https://github.com/step-security/danger-swift/issues?q=is%3Aissue+is%3Aopen+label%3A%22Open+for+Discussion%22
+[you-can-do-this]: https://github.com/step-security/danger-swift/issues?q=is%3Aissue+is%3Aopen+label%3A%22You+Can+Do+This%22
 [orta]: https://twitter.com/orta/
 [peril]: https://github.com/danger/peril

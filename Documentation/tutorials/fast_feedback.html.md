@@ -43,7 +43,7 @@ You need to add both Danger and [Komondor](https://github.com/orta/Komondor) to 
         .package(url: "https://github.com/f-meloni/Logger", from: "0.1.0"),
         .package(url: "https://github.com/JohnSundell/Marathon", from: "3.1.0"),
         .package(url: "https://github.com/JohnSundell/ShellOut", from: "2.1.0"),
-        .package(url: "https://github.com/danger/danger-swift.git", from: "0.7.0")
+        .package(url: "https://github.com/step-security/danger-swift.git", from: "0.7.0")
 
 +        .package(url: "https://github.com/orta/Komondor", from: "1.0.0"), // dev
     }

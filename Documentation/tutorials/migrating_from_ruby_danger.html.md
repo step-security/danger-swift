@@ -36,7 +36,7 @@ import PackageDescription
 let package = Package(
     name: "[Your App]",
     dependencies: [
-      .package(url: "https://github.com/danger/swift.git", from: "1.4.0")
+      .package(url: "https://github.com/step-security/danger-swift.git", from: "1.4.0")
     ],
     targets: [
         // This is just an arbitrary Swift file in our app, that has
@@ -138,7 +138,7 @@ If your repo is private, you will need to either set up your access local tokens
 against an open source project for a second. If you need one:
 
 ```sh
-[swift run] danger-swift pr https://github.com/danger/swift/pull/155
+[swift run] danger-swift pr https://github.com/step-security/danger-swift/pull/155
 ```
 
 You can iterate here, until it does what you want.

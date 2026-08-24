@@ -44,7 +44,7 @@ Then the danger CLI will use authenticated API calls, which don't get hit by API
 The command `danger-swift pr` expects an argument of a PR url, e.g:
 
 ```sh
-[swift run] danger-swift pr https://github.com/danger/swift/pull/95
+[swift run] danger-swift pr https://github.com/step-security/danger-swift/pull/95
 ```
 
 This will use your local `Dangerfile.swift` against the metadata of the linked PR. Danger will then output the results
@@ -96,7 +96,7 @@ products: [
     ],
     dependencies: [
         ...
-        .package(url: "https://github.com/danger/swift.git", from: "1.0.0"), // dev
+        .package(url: "https://github.com/step-security/danger-swift.git", from: "1.0.0"), // dev
         // Danger Plugins
         .package(url: "https://github.com/username/DangerPlugin.git", from: "0.1.0") // dev
         ...
@@ -117,7 +117,7 @@ products: [
 ```
 
 - Create a folder called `DangerDependencies` in `Sources` with an empty file inside like
-[Fake.swift](https://github.com/danger/swift/Sources/Sources/Danger-Swift/Fake.swift)
+[Fake.swift](https://github.com/step-security/danger-swift/Sources/Sources/Danger-Swift/Fake.swift)
 - To run `Danger` use `swift run danger-swift command`
 - **(Recommended)** If you are using Swift PM to distribute your framework, use
 [Rocket](https://github.com/f-meloni/Rocket), or a similar tool, to comment out all the dev dependencies from your

@@ -163,7 +163,7 @@ For Linux:
 
 ```sh
 # Install danger-swift
-git clone https://github.com/danger/danger-swift.git
+git clone https://github.com/step-security/danger-swift.git
 cd danger-swift
 make install
 
@@ -184,9 +184,9 @@ jobs:
     runs-on: ubuntu-latest
     name: "Run Danger"
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v4
       - name: Danger
-        uses: step-security/danger-swift@3.15.0
+        uses: step-security/danger-swift@v3
         with:
             args: --failOnErrors --no-publish-check
         env:
@@ -205,7 +205,7 @@ jobs:
     runs-on: ubuntu-latest
     name: "Run Danger"
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v4
       - name: Danger
         uses: docker://ghcr.io/danger/danger-swift:3.15.0
         with:
@@ -242,7 +242,7 @@ Note that to do this, you must run `danger-swift` from the directory where the `
 You need to be using Xcode >= 13.2.1.
 
 ```sh
-git clone https://github.com/danger/danger-swift.git
+git clone https://github.com/step-security/danger-swift.git
 cd danger-swift
 swift build
 swift run komondor install

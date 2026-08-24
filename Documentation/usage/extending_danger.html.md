@@ -43,7 +43,7 @@ You will need to add Danger as a dependency, if you want to work with Xcode, fir
     dependencies: [
         // Dependencies declare other packages that this package depends on.
 -       // .package(url: /* package url */, from: "1.0.0"),
-+       .package(url: "https://github.com/danger/danger-swift.git", from: "0.7.3")
++       .package(url: "https://github.com/step-security/danger-swift.git", from: "0.7.3")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -96,7 +96,7 @@ let package = Package(
     ],
     dependencies: [
         ...
-        .package(url: "https://github.com/danger/swift.git", from: "1.0.0"),
+        .package(url: "https://github.com/step-security/danger-swift.git", from: "1.0.0"),
     ],
     targets: [
         .target(name: "DangerPlugin", dependencies: ["Danger"]),
