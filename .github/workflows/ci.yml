@@ -1,0 +1,255 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - master
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  test-on-macos:
+    name: Test on macOS
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: "macos-14"
+            xcode: "15.4"
+          - runner: "macos-15"
+            xcode: "16.1"
+          - runner: "macos-26"
+            xcode: "26.6"
+    runs-on: ${{ matrix.runner }}
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: |
+          .build/artifacts
+          .build/checkouts
+          .build/repositories
+        key: ${{ runner.os }}-dependencies-${{ matrix.xcode }}-${{ hashFiles('**/Package.resolved') }}
+        restore-keys: |
+          ${{ runner.os }}-dependencies-${{ matrix.xcode }}-${{ hashFiles('**/Package.resolved') }}
+          ${{ runner.os }}-dependencies-${{ matrix.xcode }}-
+
+    - name: Select Xcode
+      run: |
+        xcodebuild -version
+        ls -nt /Applications/ | grep "Xcode*"
+        sudo xcode-select -switch /Applications/Xcode_${{ matrix.xcode }}.app
+        xcodebuild -version
+
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22.x'
+
+    - name: Install danger-js
+      run: |
+        yarn global add danger
+        echo `yarn global bin` >> $GITHUB_PATH
+
+    - run: swift test
+
+    - run: swift run danger-swift ci --verbose --failOnErrors
+      if: ${{ github.event_name == 'pull_request' }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  test-dependencies-resolver:
+    name: Test dependencies resolver
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: "macos-14"
+            xcode: "15.4"
+          - runner: "macos-15"
+            xcode: "16.1"
+          - runner: "macos-26"
+            xcode: "26.6"
+    runs-on: ${{ matrix.runner }}
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: |
+          .build/artifacts
+          .build/checkouts
+          .build/repositories
+        key: ${{ runner.os }}-dependencies-${{ matrix.xcode }}-${{ hashFiles('**/Package.resolved') }}
+        restore-keys: |
+          ${{ runner.os }}-dependencies-${{ matrix.xcode }}-${{ hashFiles('**/Package.resolved') }}
+          ${{ runner.os }}-dependencies-${{ matrix.xcode }}-
+
+    - name: Select Xcode
+      run: |
+        xcodebuild -version
+        ls -nt /Applications/ | grep "Xcode*"
+        sudo xcode-select -switch /Applications/Xcode_${{ matrix.xcode }}.app
+        xcodebuild -version
+
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22.x'
+
+    - name: Install danger-js
+      run: |
+        yarn global add danger
+        echo `yarn global bin` >> $GITHUB_PATH
+
+    - run: make install PREFIX='/opt/homebrew'
+
+    - run: mkdir DangerTestWithDependencies && mv DangerfileWithDependencies.swift DangerTestWithDependencies/Dangerfile.swift
+
+    - run: cd DangerTestWithDependencies && danger-swift ci --verbose --failOnErrors --id DangerDependencies
+      if: ${{ github.event_name == 'pull_request' }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  test-on-linux:
+    name: Test on Linux
+    runs-on: ubuntu-22.04
+    strategy:
+      fail-fast: false
+      matrix:
+        swift: ["5.9", "5.10", "6.0"]
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22.x'
+
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: |
+          .build/artifacts
+          .build/checkouts
+          .build/repositories
+        key: ${{ runner.os }}-dependencies-${{ matrix.swift }}-${{ hashFiles('**/Package.resolved') }}
+        restore-keys: |
+          ${{ runner.os }}-dependencies-${{ matrix.swift }}-${{ hashFiles('**/Package.resolved') }}
+          ${{ runner.os }}-dependencies-${{ matrix.swift }}-
+
+    - name: Install danger-js
+      run: |
+        yarn global add danger
+        echo `yarn global bin` >> $GITHUB_PATH
+
+    - run: echo ${{ matrix.swift }} > .swift-version
+
+    - uses: YOCKOW/Action-setup-swift@v1
+
+    - run: swift test --enable-test-discovery
+
+    - run: swift run danger-swift ci --verbose --failOnErrors
+      if: ${{ github.event_name == 'pull_request' }}
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  test-without-spm-on-macos:
+    name: Test without SPM on macOS
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: "macos-14"
+            xcode: "15.4"
+          - runner: "macos-15"
+            xcode: "16.1"
+          - runner: "macos-26"
+            xcode: "26.6"
+    runs-on: ${{ matrix.runner }}
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: |
+          .build/artifacts
+          .build/checkouts
+          .build/repositories
+        key: ${{ runner.os }}-without-spm-package-${{ matrix.xcode }}-${{ hashFiles('**/Package.resolved') }}
+        restore-keys: |
+          ${{ runner.os }}-without-spm-package-${{ matrix.xcode }}-${{ hashFiles('**/Package.resolved') }}
+          ${{ runner.os }}-without-spm-package-${{ matrix.xcode }}-
+
+    - name: Select Xcode
+      run: |
+        xcodebuild -version
+        ls -nt /Applications/ | grep "Xcode*"
+        sudo xcode-select -switch /Applications/Xcode_${{ matrix.xcode }}.app
+        xcodebuild -version
+
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22.x'
+
+    - name: Install danger-js
+      run: |
+        yarn global add danger
+        echo `yarn global bin` >> $GITHUB_PATH
+
+    - run: make install PREFIX='/opt/homebrew'
+
+    - run: rm -rf .build && rm -rf Package.swift
+
+    - run: danger-swift ci --verbose --failOnErrors
+      if: ${{ github.event_name == 'pull_request' }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  test-without-spm-on-linux:
+    name: Test without SPM on Linux
+    runs-on: ubuntu-22.04
+    strategy:
+      fail-fast: false
+      matrix:
+        swift: ["5.9", "5.10", "6.0"]
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22.x'
+
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: |
+          .build/artifacts
+          .build/checkouts
+          .build/repositories
+        key: ${{ runner.os }}-without-spm-package-${{ matrix.swift }}-${{ hashFiles('**/Package.resolved') }}
+        restore-keys: |
+          ${{ runner.os }}-without-spm-package-${{ matrix.swift }}-${{ hashFiles('**/Package.resolved') }}
+          ${{ runner.os }}-without-spm-package-${{ matrix.swift }}-
+
+    - name: Install danger-js
+      run: |
+        yarn global add danger
+        echo `yarn global bin` >> $GITHUB_PATH
+
+    - run: echo ${{ matrix.swift }} > .swift-version
+
+    - uses: YOCKOW/Action-setup-swift@v1
+    
+    - run: sudo chmod -R a+rwx /usr/local
+
+    - run: make install
+
+    - run: rm -rf .build && rm -rf Package.swift
+
+    - run: danger-swift ci --verbose --failOnErrors
+      if: ${{ github.event_name == 'pull_request' }}
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
