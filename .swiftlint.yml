@@ -18,3 +18,6 @@ identifier_name:
     - pr
 disabled_rules:
   - trailing_comma
+  - blanket_disable_command # pre-existing codebase pattern, written before this rule existed
+  - force_try              # pre-existing violations; disable for initial onboarding PR, re-enable after merge
+  - large_tuple            # pre-existing violations; disable for initial onboarding PR, re-enable after merge

@@ -273,7 +273,7 @@ public extension GitHub {
         /// The name of the repo, e.g. "danger-swift".
         public let name: String
 
-        /// The full name of the owner + repo, e.g. "Danger/danger-swift"
+        /// The full name of the owner + repo, e.g. "step-security/danger-swift"
         public let fullName: String
 
         /// The owner of the repo.

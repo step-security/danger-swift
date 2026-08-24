@@ -83,5 +83,6 @@ extension InlineDependenciesFinder.InlineDependency {
 }
 
 extension InlineDependenciesFinder.InlineDependency {
+    // TODO: Update to https://github.com/step-security/danger-swift.git once step-security publishes releases
     static let dangerSwiftRepoURL = URL(string: "https://github.com/danger/swift.git")!
 }

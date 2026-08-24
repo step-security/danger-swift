@@ -468,13 +468,13 @@ final class DangerSwiftLintTests: XCTestCase {
 
         _ = SwiftLint.lint(danger: danger,
                            shellExecutor: executor,
-                           swiftlintPath: .swiftPackage("Danger/Something"),
+                           swiftlintPath: .swiftPackage("StepSecurity/Something"),
                            currentPathProvider: fakePathProvider,
                            outputFilePath: "swiftlintReport.json",
                            reportDeleter: reportDeleter,
                            readFile: mockedEmptyJSON)
 
-        XCTAssertEqual(executor.invocations.map(\.command), ["swift run --package-path Danger/Something swiftlint"])
+        XCTAssertEqual(executor.invocations.map(\.command), ["swift run --package-path StepSecurity/Something swiftlint"])
     }
 }
 

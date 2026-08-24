@@ -45,7 +45,7 @@ private extension VersionChecker {
             let latest = try shellExecutor.execute("curl",
                                                    arguments: [
                                                        "-s",
-                                                       "https://api.github.com/repos/danger/swift/releases/latest",
+                                                       "https://api.github.com/repos/step-security/danger-swift/releases/latest",
                                                    ])
                                                    .data(using: .utf8)
                                                    .flatMap { try decoder.decode(Release.self, from: $0) }

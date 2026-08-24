@@ -2,8 +2,6 @@
 
 import PackageDescription
 
-// Version number can be found in Source/Danger/Danger.swift
-
 // switch to false when release
 let isDevelop = true
 

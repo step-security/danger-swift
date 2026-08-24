@@ -6,7 +6,7 @@ import Foundation
 ///
 ///   danger pr --json [pr_url]
 ///
-///   e.g. danger pr --json https://github.com/danger/swift/pull/65 --dangerfile Dangerfile.swift
+///   e.g. danger pr --json https://github.com/step-security/danger-swift/pull/65 --dangerfile Dangerfile.swift
 ///
 /// as this is a testing util, it is assumed you've set it up with
 /// working fixtured or it will raise an exception.

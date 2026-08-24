@@ -15,7 +15,7 @@ public enum Runtime {
         supportedPaths.first { FileManager.default.fileExists(atPath: $0) }
     }
 
-    /// Is this a dev build: e.g. running inside a cloned danger/danger-swift
+    /// Is this a dev build: e.g. running inside a cloned step-security/danger-swift
     public static func potentialLibraryFolders(forDangerSwiftVersion version: String) -> [String] { [
             ".build/debug", // Working in Xcode / CLI
             ".build/x86_64-unknown-linux/debug", // Danger Swift's CI

@@ -37,7 +37,7 @@ public let DSLGitLabMilestoneNoDateRangeJSON = """
         "iid": 182,
         "project_id": 1620437,
         "title": "Update getting_started.html.slim",
-        "description": "Updating it to avoid problems like https://github.com/danger/swift/issues/221",
+        "description": "Updating it to avoid problems like https://github.com/step-security/danger-swift/issues/221",
         "state": "merged",
         "created_at": "2019-04-10T21:57:45.346Z",
         "updated_at": "2019-04-11T00:37:22.460Z",

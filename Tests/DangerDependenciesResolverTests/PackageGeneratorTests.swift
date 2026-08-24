@@ -24,9 +24,9 @@ final class PackageGeneratorTests: XCTestCase {
 
     func testGeneratedPackageWhenThereAreDependencies() throws {
         let packageListMaker = StubbedPackageListMaker(packages: [
-            Package(name: "Dependency1", url: URL(string: "https://github.com/danger/dependency1")!, majorVersion: 1),
-            Package(name: "Dependency2", url: URL(string: "https://github.com/danger/dependency2")!, majorVersion: 2),
-            Package(name: "Dependency3", url: URL(string: "https://github.com/danger/dependency3")!, majorVersion: 3),
+            Package(name: "Dependency1", url: URL(string: "https://github.com/step-security/dependency1")!, majorVersion: 1),
+            Package(name: "Dependency2", url: URL(string: "https://github.com/step-security/dependency2")!, majorVersion: 2),
+            Package(name: "Dependency3", url: URL(string: "https://github.com/step-security/dependency3")!, majorVersion: 3),
         ])
         let spyFileCreator = SpyFileCreator()
         let generator = PackageGenerator(folder: "folder",
@@ -41,9 +41,9 @@ final class PackageGeneratorTests: XCTestCase {
 
     func testGeneratedPackageWhenThereAreDependenciesAndSwiftVersionIs5_2() throws {
         let packageListMaker = StubbedPackageListMaker(packages: [
-            Package(name: "Dependency1", url: URL(string: "https://github.com/danger/dependency1")!, majorVersion: 1),
-            Package(name: "Dependency2", url: URL(string: "https://github.com/danger/dependency2")!, majorVersion: 2),
-            Package(name: "Dependency3", url: URL(string: "https://github.com/danger/dependency3")!, majorVersion: 3),
+            Package(name: "Dependency1", url: URL(string: "https://github.com/step-security/dependency1")!, majorVersion: 1),
+            Package(name: "Dependency2", url: URL(string: "https://github.com/step-security/dependency2")!, majorVersion: 2),
+            Package(name: "Dependency3", url: URL(string: "https://github.com/step-security/dependency3")!, majorVersion: 3),
         ])
         let spyFileCreator = SpyFileCreator()
         let generator = PackageGenerator(folder: "folder",
@@ -58,9 +58,9 @@ final class PackageGeneratorTests: XCTestCase {
 
     func testGeneratedPackageWhenThereAreDependenciesAndSwiftVersionIs5_6() throws {
         let packageListMaker = StubbedPackageListMaker(packages: [
-            Package(name: "Dependency1", url: URL(string: "https://github.com/danger/dependency1")!, majorVersion: 1),
-            Package(name: "Dependency2", url: URL(string: "https://github.com/danger/dependency2")!, majorVersion: 2),
-            Package(name: "Dependency3", url: URL(string: "https://github.com/danger/dependency3")!, majorVersion: 3),
+            Package(name: "Dependency1", url: URL(string: "https://github.com/step-security/dependency1")!, majorVersion: 1),
+            Package(name: "Dependency2", url: URL(string: "https://github.com/step-security/dependency2")!, majorVersion: 2),
+            Package(name: "Dependency3", url: URL(string: "https://github.com/step-security/dependency3")!, majorVersion: 3),
         ])
         let spyFileCreator = SpyFileCreator()
         let generator = PackageGenerator(folder: "folder",

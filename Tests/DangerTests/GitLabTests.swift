@@ -56,7 +56,7 @@ final class GitLabTests: XCTestCase {
         XCTAssertEqual(mergeRequest.changesCount, "1")
         XCTAssertNil(mergeRequest.closedAt)
         XCTAssertNil(mergeRequest.closedBy)
-        XCTAssertEqual(mergeRequest.description, "Updating it to avoid problems like https://github.com/danger/swift/issues/221")
+        XCTAssertEqual(mergeRequest.description, "Updating it to avoid problems like https://github.com/step-security/danger-swift/issues/221")
         XCTAssertEqual(mergeRequest.diffRefs, expectedDiffRefs)
         XCTAssertEqual(mergeRequest.downvotes, 0)
         XCTAssertEqual(mergeRequest.firstDeployedToProductionAt, Date(timeIntervalSince1970: 1_554_942_622.492))

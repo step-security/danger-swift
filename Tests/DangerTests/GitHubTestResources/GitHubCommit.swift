@@ -16,9 +16,9 @@ public let GitHubCommitWithEmptyAuthorJSON = """
 	  "message": "Re use the same executor on the runner",
 	  "tree": {
 	    "sha": "96b7fdf0ab04926cc9eee844a15d66e097922777",
-	    "url": "https://api.github.com/repos/danger/swift/git/trees/96b7fdf0ab04926cc9eee844a15d66e097922777"
+	    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/96b7fdf0ab04926cc9eee844a15d66e097922777"
 	  },
-	  "url": "https://api.github.com/repos/danger/swift/git/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
+	  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
 	  "comment_count": 0,
 	  "verification": {
 	    "verified": false,
@@ -27,9 +27,9 @@ public let GitHubCommitWithEmptyAuthorJSON = """
 	    "payload": null
 	  }
 	},
-	"url": "https://api.github.com/repos/danger/swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
-	"html_url": "https://github.com/danger/swift/commit/cad494648f773cd4fad5a9ea948c1bfabf36032a",
-	"comments_url": "https://api.github.com/repos/danger/swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a/comments",
+	"url": "https://api.github.com/repos/step-security/danger-swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
+	"html_url": "https://github.com/step-security/danger-swift/commit/cad494648f773cd4fad5a9ea948c1bfabf36032a",
+	"comments_url": "https://api.github.com/repos/step-security/danger-swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a/comments",
 	"author": {},
 	"committer": {
 	  "login": "f-meloni",
@@ -74,9 +74,9 @@ public let GitHubCommitVerifiedJSON = """
       "message": "Re use the same executor on the runner",
       "tree": {
         "sha": "96b7fdf0ab04926cc9eee844a15d66e097922777",
-        "url": "https://api.github.com/repos/danger/swift/git/trees/96b7fdf0ab04926cc9eee844a15d66e097922777"
+        "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/96b7fdf0ab04926cc9eee844a15d66e097922777"
       },
-      "url": "https://api.github.com/repos/danger/swift/git/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
+      "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -85,9 +85,9 @@ public let GitHubCommitVerifiedJSON = """
         "payload": "Test Payload"
       }
     },
-    "url": "https://api.github.com/repos/danger/swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
-    "html_url": "https://github.com/danger/swift/commit/cad494648f773cd4fad5a9ea948c1bfabf36032a",
-    "comments_url": "https://api.github.com/repos/danger/swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a/comments",
+    "url": "https://api.github.com/repos/step-security/danger-swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a",
+    "html_url": "https://github.com/step-security/danger-swift/commit/cad494648f773cd4fad5a9ea948c1bfabf36032a",
+    "comments_url": "https://api.github.com/repos/step-security/danger-swift/commits/cad494648f773cd4fad5a9ea948c1bfabf36032a/comments",
     "author": {},
     "committer": {
       "login": "f-meloni",

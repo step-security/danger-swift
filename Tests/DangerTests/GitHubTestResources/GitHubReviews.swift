@@ -25,15 +25,15 @@ public let GitHubReviews = """
     },
     "body": "",
     "state": "APPROVED",
-    "html_url": "https://github.com/danger/swift/pull/95#pullrequestreview-172114916",
-    "pull_request_url": "https://api.github.com/repos/danger/swift/pulls/95",
+    "html_url": "https://github.com/step-security/danger-swift/pull/95#pullrequestreview-172114916",
+    "pull_request_url": "https://api.github.com/repos/step-security/danger-swift/pulls/95",
     "author_association": "MEMBER",
     "_links": {
       "html": {
-        "href": "https://github.com/danger/swift/pull/95#pullrequestreview-172114916"
+        "href": "https://github.com/step-security/danger-swift/pull/95#pullrequestreview-172114916"
       },
       "pull_request": {
-        "href": "https://api.github.com/repos/danger/swift/pulls/95"
+        "href": "https://api.github.com/repos/step-security/danger-swift/pulls/95"
       }
     },
     "submitted_at": "2018-11-06T16:42:44Z",
@@ -64,15 +64,15 @@ public let GitHubReviews = """
     },
     "body": "",
     "state": "COMMENTED",
-    "html_url": "https://github.com/danger/swift/pull/95#pullrequestreview-172121815",
-    "pull_request_url": "https://api.github.com/repos/danger/swift/pulls/95",
+    "html_url": "https://github.com/step-security/danger-swift/pull/95#pullrequestreview-172121815",
+    "pull_request_url": "https://api.github.com/repos/step-security/danger-swift/pulls/95",
     "author_association": "NONE",
     "_links": {
       "html": {
-        "href": "https://github.com/danger/swift/pull/95#pullrequestreview-172121815"
+        "href": "https://github.com/step-security/danger-swift/pull/95#pullrequestreview-172121815"
       },
       "pull_request": {
-        "href": "https://api.github.com/repos/danger/swift/pulls/95"
+        "href": "https://api.github.com/repos/step-security/danger-swift/pulls/95"
       }
     },
     "submitted_at": "2018-11-06T16:52:14Z",
@@ -103,15 +103,15 @@ public let GitHubReviews = """
     },
     "body": "",
     "state": "COMMENTED",
-    "html_url": "https://github.com/danger/swift/pull/95#pullrequestreview-172123782",
-    "pull_request_url": "https://api.github.com/repos/danger/swift/pulls/95",
+    "html_url": "https://github.com/step-security/danger-swift/pull/95#pullrequestreview-172123782",
+    "pull_request_url": "https://api.github.com/repos/step-security/danger-swift/pulls/95",
     "author_association": "MEMBER",
     "_links": {
       "html": {
-        "href": "https://github.com/danger/swift/pull/95#pullrequestreview-172123782"
+        "href": "https://github.com/step-security/danger-swift/pull/95#pullrequestreview-172123782"
       },
       "pull_request": {
-        "href": "https://api.github.com/repos/danger/swift/pulls/95"
+        "href": "https://api.github.com/repos/step-security/danger-swift/pulls/95"
       }
     },
     "submitted_at": "2018-11-06T16:55:47Z",

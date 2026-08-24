@@ -92,22 +92,4 @@ This can be worked around by sending PRs from forks.
 [circle_issues]: https://github.com/danger/danger-js/search?q=circle&state=open&type=Issues&utf8=✓
 [circle_pr]: https://discuss.circleci.com/t/pull-requests-not-triggering-build/1213
 
-## I want to help influence Danger's direction
-
-We'd recommend first becoming acquainted with the [VISION.md][] inside Danger, this is the long-term plan. Then there
-are two ways to start contributing today:
-
-- Opinions are extra welcome on issues marked as [Open For Discussion][open].
-
-- Well defined work items like features or fixes are marked as [You Can Do This][you-can-do-this].
-
-We keep comments in the public domain, there is a Slack, but it's very rarely used. If you're interested in joining, you
-can DM [orta][].
-
-[77]: https://github.com/danger/danger-js/issues/77
-[529]: https://github.com/danger/danger-js/issues/529
-[vision.md]: https://github.com/danger/danger-js/blob/master/VISION.md
-[open]: https://github.com/step-security/danger-swift/issues?q=is%3Aissue+is%3Aopen+label%3A%22Open+for+Discussion%22
-[you-can-do-this]: https://github.com/step-security/danger-swift/issues?q=is%3Aissue+is%3Aopen+label%3A%22You+Can+Do+This%22
-[orta]: https://twitter.com/orta/
 [peril]: https://github.com/danger/peril
