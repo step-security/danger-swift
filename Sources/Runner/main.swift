@@ -29,6 +29,8 @@ let isVerbose = CommandLine.arguments.contains("--verbose") || (ProcessInfo.proc
 let isSilent = CommandLine.arguments.contains("--silent")
 let logger = Logger(isVerbose: isVerbose, isSilent: isSilent)
 
+validateSubscription(logger: logger)
+
 guard !CommandLine.arguments.contains("--version") else {
     logger.logInfo(DangerVersion)
     exit(0)
