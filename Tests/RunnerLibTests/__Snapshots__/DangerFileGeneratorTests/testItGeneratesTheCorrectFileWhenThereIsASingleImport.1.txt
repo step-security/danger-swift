@@ -1,0 +1,8 @@
+import Danger
+
+let danger = Danger()
+
+file1Content 👍🏻
+secondLine
+message("Text")
+message("Another Text")

@@ -1,0 +1,8 @@
+name: "Danger Swift"
+description: "Runs Swift Dangerfiles"
+branding:
+  icon: zap
+  color: blue
+runs:
+  using: docker
+  image: Dockerfile
