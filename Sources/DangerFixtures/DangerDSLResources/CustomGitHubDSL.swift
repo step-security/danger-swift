@@ -35,9 +35,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Xcode] Updates for compatibility with Xcode 7.3.1.",
                 "tree": {
                   "sha": "fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/93ae30cf2aee4241c442fb3242543490998cffdb"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/93ae30cf2aee4241c442fb3242543490998cffdb"
               },
               {
                 "sha": "4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
@@ -55,9 +55,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[CI] Updates Travis to Xcode 7.3.",
                 "tree": {
                   "sha": "01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4"
               },
               {
                 "sha": "d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
@@ -75,9 +75,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Deps] Updates dependencies for Swift 2.2.",
                 "tree": {
                   "sha": "a30d9d8be16847c33eb50483a653f27475f197a4",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/a30d9d8be16847c33eb50483a653f27475f197a4"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/a30d9d8be16847c33eb50483a653f27475f197a4"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac"
               },
               {
                 "sha": "c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
@@ -95,9 +95,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Tests] Cleans up snapshot tests for Xcode 7.3.1.",
                 "tree": {
                   "sha": "74f18cfa9f377497c46295e5bc254556a9eb159f",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/74f18cfa9f377497c46295e5bc254556a9eb159f"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/74f18cfa9f377497c46295e5bc254556a9eb159f"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864"
               },
               {
                 "sha": "263d74a15e856f563f18864c459167c46c92cf48",
@@ -115,9 +115,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Tests] Fixes typo, thanks @Gerst20051.",
                 "tree": {
                   "sha": "505840c1fd602e9ce7e44fda47488229aa1284b2",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/505840c1fd602e9ce7e44fda47488229aa1284b2"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/505840c1fd602e9ce7e44fda47488229aa1284b2"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/263d74a15e856f563f18864c459167c46c92cf48"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/263d74a15e856f563f18864c459167c46c92cf48"
               },
               {
                 "sha": "b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
@@ -135,9 +135,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Podfile] Adds comment for specific pod commit.",
                 "tree": {
                   "sha": "4589f4905bd0e23710a257ed6560983cbda91838",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/4589f4905bd0e23710a257ed6560983cbda91838"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/4589f4905bd0e23710a257ed6560983cbda91838"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f"
               },
               {
                 "sha": "31b4eccb1bba8510485d468a0b73221eead2b0f0",
@@ -155,9 +155,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[CI] Fix for intermittent CI failures.",
                 "tree": {
                   "sha": "e31f2c677fd09e21e2a056853a9f722c8f6a6c69",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/e31f2c677fd09e21e2a056853a9f722c8f6a6c69"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/e31f2c677fd09e21e2a056853a9f722c8f6a6c69"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0"
               },
               {
                 "sha": "db2af03f247bec4d12a3e743b4464a70501fac77",
@@ -175,9 +175,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Ruby] Adds version-specifier.",
                 "tree": {
                   "sha": "9226b26bd2cc9f6e50076badff8229bec8ff818b",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/9226b26bd2cc9f6e50076badff8229bec8ff818b"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/9226b26bd2cc9f6e50076badff8229bec8ff818b"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/db2af03f247bec4d12a3e743b4464a70501fac77"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/db2af03f247bec4d12a3e743b4464a70501fac77"
               },
               {
                 "sha": "57b041fbbbebd075f7fe186fb754cf7cce85519c",
@@ -195,9 +195,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[CI] Split up failing test + switch to syncrhonous testing.",
                 "tree": {
                   "sha": "64bc098d18f98b3363e7a02fefba816140e17b8f",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/64bc098d18f98b3363e7a02fefba816140e17b8f"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/64bc098d18f98b3363e7a02fefba816140e17b8f"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c"
               },
               {
                 "sha": "851e911b4e8697a0f8e3b84c19df6cec30aead2a",
@@ -215,9 +215,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[CI] Fixes pre-launching simulator UUID.",
                 "tree": {
                   "sha": "9cbec8e2436334ac71c0254ff34595d24cf1c134",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/9cbec8e2436334ac71c0254ff34595d24cf1c134"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/9cbec8e2436334ac71c0254ff34595d24cf1c134"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a"
               },
               {
                 "sha": "9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
@@ -235,9 +235,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[CI] Fixes intermittently failing test comparing dates.",
                 "tree": {
                   "sha": "2ab689baa382cc918289529955121d17672db7a4",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/2ab689baa382cc918289529955121d17672db7a4"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/2ab689baa382cc918289529955121d17672db7a4"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff"
               },
               {
                 "sha": "1aa0360bc7a95d7878160ae91eea62324ac3252f",
@@ -255,9 +255,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Deps] Updates dependencies to latest Swift 2.x versions.",
                 "tree": {
                   "sha": "0ef37421cfa8cbd2d729e58de786b77f6219d3ad",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/0ef37421cfa8cbd2d729e58de786b77f6219d3ad"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/0ef37421cfa8cbd2d729e58de786b77f6219d3ad"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f"
               },
               {
                 "sha": "fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
@@ -275,9 +275,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[CI] Fixes more intermittent tests.",
                 "tree": {
                   "sha": "00271b152921db4988396350eca46ed6b19f6649",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/00271b152921db4988396350eca46ed6b19f6649"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/00271b152921db4988396350eca46ed6b19f6649"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7"
               },
               {
                 "sha": "c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
@@ -295,9 +295,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[CI] Removed duplicate simulator launch.",
                 "tree": {
                   "sha": "965807f296e1a3fb30134508062825cf30806786",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/965807f296e1a3fb30134508062825cf30806786"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/965807f296e1a3fb30134508062825cf30806786"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1"
               },
               {
                 "sha": "d769f276e066d79169a8bfa5795c8a4853f942f3",
@@ -315,20 +315,20 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "message": "[Feedback] Adds clarifying comments as per feedback in #609.",
                 "tree": {
                   "sha": "9004fe3df2b4d7d3285460095c37d9f62b4be26a",
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/trees/9004fe3df2b4d7d3285460095c37d9f62b4be26a"
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/9004fe3df2b4d7d3285460095c37d9f62b4be26a"
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/d769f276e066d79169a8bfa5795c8a4853f942f3"
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/d769f276e066d79169a8bfa5795c8a4853f942f3"
               }
             ]
           },
           "github": {
             "issue": {
-              "url": "https://api.github.com/repos/artsy/eidolon/issues/609",
-              "repository_url": "https://api.github.com/repos/artsy/eidolon",
-              "labels_url": "https://api.github.com/repos/artsy/eidolon/issues/609/labels{/name}",
-              "comments_url": "https://api.github.com/repos/artsy/eidolon/issues/609/comments",
-              "events_url": "https://api.github.com/repos/artsy/eidolon/issues/609/events",
-              "html_url": "https://github.com/artsy/eidolon/pull/609",
+              "url": "https://api.github.com/repos/step-security/danger-swift/issues/609",
+              "repository_url": "https://api.github.com/repos/step-security/danger-swift",
+              "labels_url": "https://api.github.com/repos/step-security/danger-swift/issues/609/labels{/name}",
+              "comments_url": "https://api.github.com/repos/step-security/danger-swift/issues/609/comments",
+              "events_url": "https://api.github.com/repos/step-security/danger-swift/issues/609/events",
+              "html_url": "https://github.com/step-security/danger-swift/pull/609",
               "id": 167696965,
               "number": 609,
               "title": "Xcode updates",
@@ -436,10 +436,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
               "author_association": "MEMBER",
               "draft": false,
               "pull_request": {
-                "url": "https://api.github.com/repos/artsy/eidolon/pulls/609",
-                "html_url": "https://github.com/artsy/eidolon/pull/609",
-                "diff_url": "https://github.com/artsy/eidolon/pull/609.diff",
-                "patch_url": "https://github.com/artsy/eidolon/pull/609.patch"
+                "url": "https://api.github.com/repos/step-security/danger-swift/pulls/609",
+                "html_url": "https://github.com/step-security/danger-swift/pull/609",
+                "diff_url": "https://github.com/step-security/danger-swift/pull/609.diff",
+                "patch_url": "https://github.com/step-security/danger-swift/pull/609.patch"
               },
               "body": "I don't want to spend much time on this project, but I do want to keep it up to date with current tools so that we can deploy any fixes quickly. \\n\\nI tried updating to CocoaPods 1.0, but things went quickly awry. It's a large job, but not necessary for now. \\n",
               "closed_by": {
@@ -463,12 +463,12 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
               }
             },
             "pr": {
-              "url": "https://api.github.com/repos/artsy/eidolon/pulls/609",
+              "url": "https://api.github.com/repos/step-security/danger-swift/pulls/609",
               "id": 78914852,
-              "html_url": "https://github.com/artsy/eidolon/pull/609",
-              "diff_url": "https://github.com/artsy/eidolon/pull/609.diff",
-              "patch_url": "https://github.com/artsy/eidolon/pull/609.patch",
-              "issue_url": "https://api.github.com/repos/artsy/eidolon/issues/609",
+              "html_url": "https://github.com/step-security/danger-swift/pull/609",
+              "diff_url": "https://github.com/step-security/danger-swift/pull/609.diff",
+              "patch_url": "https://github.com/step-security/danger-swift/pull/609.patch",
+              "issue_url": "https://api.github.com/repos/step-security/danger-swift/issues/609",
               "number": 609,
               "state": "closed",
               "locked": false,
@@ -541,12 +541,12 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
               ],
               "requested_reviewers": [],
               "milestone": null,
-              "commits_url": "https://api.github.com/repos/artsy/eidolon/pulls/609/commits",
-              "review_comments_url": "https://api.github.com/repos/artsy/eidolon/pulls/609/comments",
-              "review_comment_url": "https://api.github.com/repos/artsy/eidolon/pulls/comments{/number}",
-              "comments_url": "https://api.github.com/repos/artsy/eidolon/issues/609/comments",
+              "commits_url": "https://api.github.com/repos/step-security/danger-swift/pulls/609/commits",
+              "review_comments_url": "https://api.github.com/repos/step-security/danger-swift/pulls/609/comments",
+              "review_comment_url": "https://api.github.com/repos/step-security/danger-swift/pulls/comments{/number}",
+              "comments_url": "https://api.github.com/repos/step-security/danger-swift/issues/609/comments",
               "statuses_url":
-                "https://api.github.com/repos/artsy/eidolon/statuses/d769f276e066d79169a8bfa5795c8a4853f942f3",
+                "https://api.github.com/repos/step-security/danger-swift/statuses/d769f276e066d79169a8bfa5795c8a4853f942f3",
               "head": {
                 "label": "artsy:xcode-update",
                 "ref": "xcode-update",
@@ -573,7 +573,7 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "repo": {
                   "id": 22613546,
                   "name": "eidolon",
-                  "full_name": "artsy/eidolon",
+                  "full_name": "step-security/danger-swift",
                   "owner": {
                     "login": "artsy",
                     "id": 546231,
@@ -594,53 +594,53 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                     "site_admin": false
                   },
                   "private": false,
-                  "html_url": "https://github.com/artsy/eidolon",
+                  "html_url": "https://github.com/step-security/danger-swift",
                   "description": "The Artsy Auction Kiosk App",
                   "fork": false,
-                  "url": "https://api.github.com/repos/artsy/eidolon",
-                  "forks_url": "https://api.github.com/repos/artsy/eidolon/forks",
-                  "keys_url": "https://api.github.com/repos/artsy/eidolon/keys{/key_id}",
-                  "collaborators_url": "https://api.github.com/repos/artsy/eidolon/collaborators{/collaborator}",
-                  "teams_url": "https://api.github.com/repos/artsy/eidolon/teams",
-                  "hooks_url": "https://api.github.com/repos/artsy/eidolon/hooks",
-                  "issue_events_url": "https://api.github.com/repos/artsy/eidolon/issues/events{/number}",
-                  "events_url": "https://api.github.com/repos/artsy/eidolon/events",
-                  "assignees_url": "https://api.github.com/repos/artsy/eidolon/assignees{/user}",
-                  "branches_url": "https://api.github.com/repos/artsy/eidolon/branches{/branch}",
-                  "tags_url": "https://api.github.com/repos/artsy/eidolon/tags",
-                  "blobs_url": "https://api.github.com/repos/artsy/eidolon/git/blobs{/sha}",
-                  "git_tags_url": "https://api.github.com/repos/artsy/eidolon/git/tags{/sha}",
-                  "git_refs_url": "https://api.github.com/repos/artsy/eidolon/git/refs{/sha}",
-                  "trees_url": "https://api.github.com/repos/artsy/eidolon/git/trees{/sha}",
-                  "statuses_url": "https://api.github.com/repos/artsy/eidolon/statuses/{sha}",
-                  "languages_url": "https://api.github.com/repos/artsy/eidolon/languages",
-                  "stargazers_url": "https://api.github.com/repos/artsy/eidolon/stargazers",
-                  "contributors_url": "https://api.github.com/repos/artsy/eidolon/contributors",
-                  "subscribers_url": "https://api.github.com/repos/artsy/eidolon/subscribers",
-                  "subscription_url": "https://api.github.com/repos/artsy/eidolon/subscription",
-                  "commits_url": "https://api.github.com/repos/artsy/eidolon/commits{/sha}",
-                  "git_commits_url": "https://api.github.com/repos/artsy/eidolon/git/commits{/sha}",
-                  "comments_url": "https://api.github.com/repos/artsy/eidolon/comments{/number}",
-                  "issue_comment_url": "https://api.github.com/repos/artsy/eidolon/issues/comments{/number}",
-                  "contents_url": "https://api.github.com/repos/artsy/eidolon/contents/{+path}",
-                  "compare_url": "https://api.github.com/repos/artsy/eidolon/compare/{base}...{head}",
-                  "merges_url": "https://api.github.com/repos/artsy/eidolon/merges",
-                  "archive_url": "https://api.github.com/repos/artsy/eidolon/{archive_format}{/ref}",
-                  "downloads_url": "https://api.github.com/repos/artsy/eidolon/downloads",
-                  "issues_url": "https://api.github.com/repos/artsy/eidolon/issues{/number}",
-                  "pulls_url": "https://api.github.com/repos/artsy/eidolon/pulls{/number}",
-                  "milestones_url": "https://api.github.com/repos/artsy/eidolon/milestones{/number}",
-                  "notifications_url": "https://api.github.com/repos/artsy/eidolon/notifications{?since,all,participating}",
-                  "labels_url": "https://api.github.com/repos/artsy/eidolon/labels{/name}",
-                  "releases_url": "https://api.github.com/repos/artsy/eidolon/releases{/id}",
-                  "deployments_url": "https://api.github.com/repos/artsy/eidolon/deployments",
+                  "url": "https://api.github.com/repos/step-security/danger-swift",
+                  "forks_url": "https://api.github.com/repos/step-security/danger-swift/forks",
+                  "keys_url": "https://api.github.com/repos/step-security/danger-swift/keys{/key_id}",
+                  "collaborators_url": "https://api.github.com/repos/step-security/danger-swift/collaborators{/collaborator}",
+                  "teams_url": "https://api.github.com/repos/step-security/danger-swift/teams",
+                  "hooks_url": "https://api.github.com/repos/step-security/danger-swift/hooks",
+                  "issue_events_url": "https://api.github.com/repos/step-security/danger-swift/issues/events{/number}",
+                  "events_url": "https://api.github.com/repos/step-security/danger-swift/events",
+                  "assignees_url": "https://api.github.com/repos/step-security/danger-swift/assignees{/user}",
+                  "branches_url": "https://api.github.com/repos/step-security/danger-swift/branches{/branch}",
+                  "tags_url": "https://api.github.com/repos/step-security/danger-swift/tags",
+                  "blobs_url": "https://api.github.com/repos/step-security/danger-swift/git/blobs{/sha}",
+                  "git_tags_url": "https://api.github.com/repos/step-security/danger-swift/git/tags{/sha}",
+                  "git_refs_url": "https://api.github.com/repos/step-security/danger-swift/git/refs{/sha}",
+                  "trees_url": "https://api.github.com/repos/step-security/danger-swift/git/trees{/sha}",
+                  "statuses_url": "https://api.github.com/repos/step-security/danger-swift/statuses/{sha}",
+                  "languages_url": "https://api.github.com/repos/step-security/danger-swift/languages",
+                  "stargazers_url": "https://api.github.com/repos/step-security/danger-swift/stargazers",
+                  "contributors_url": "https://api.github.com/repos/step-security/danger-swift/contributors",
+                  "subscribers_url": "https://api.github.com/repos/step-security/danger-swift/subscribers",
+                  "subscription_url": "https://api.github.com/repos/step-security/danger-swift/subscription",
+                  "commits_url": "https://api.github.com/repos/step-security/danger-swift/commits{/sha}",
+                  "git_commits_url": "https://api.github.com/repos/step-security/danger-swift/git/commits{/sha}",
+                  "comments_url": "https://api.github.com/repos/step-security/danger-swift/comments{/number}",
+                  "issue_comment_url": "https://api.github.com/repos/step-security/danger-swift/issues/comments{/number}",
+                  "contents_url": "https://api.github.com/repos/step-security/danger-swift/contents/{+path}",
+                  "compare_url": "https://api.github.com/repos/step-security/danger-swift/compare/{base}...{head}",
+                  "merges_url": "https://api.github.com/repos/step-security/danger-swift/merges",
+                  "archive_url": "https://api.github.com/repos/step-security/danger-swift/{archive_format}{/ref}",
+                  "downloads_url": "https://api.github.com/repos/step-security/danger-swift/downloads",
+                  "issues_url": "https://api.github.com/repos/step-security/danger-swift/issues{/number}",
+                  "pulls_url": "https://api.github.com/repos/step-security/danger-swift/pulls{/number}",
+                  "milestones_url": "https://api.github.com/repos/step-security/danger-swift/milestones{/number}",
+                  "notifications_url": "https://api.github.com/repos/step-security/danger-swift/notifications{?since,all,participating}",
+                  "labels_url": "https://api.github.com/repos/step-security/danger-swift/labels{/name}",
+                  "releases_url": "https://api.github.com/repos/step-security/danger-swift/releases{/id}",
+                  "deployments_url": "https://api.github.com/repos/step-security/danger-swift/deployments",
                   "created_at": "2014-08-04T17:38:26Z",
                   "updated_at": "2017-10-24T08:59:48Z",
                   "pushed_at": "2017-09-22T21:03:37Z",
-                  "git_url": "git://github.com/artsy/eidolon.git",
-                  "ssh_url": "git@github.com:artsy/eidolon.git",
-                  "clone_url": "https://github.com/artsy/eidolon.git",
-                  "svn_url": "https://github.com/artsy/eidolon",
+                  "git_url": "git://github.com/step-security/danger-swift.git",
+                  "ssh_url": "git@github.com:step-security/danger-swift.git",
+                  "clone_url": "https://github.com/step-security/danger-swift.git",
+                  "svn_url": "https://github.com/step-security/danger-swift",
                   "homepage": "http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/",
                   "size": 135512,
                   "stargazers_count": 1999,
@@ -687,7 +687,7 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "repo": {
                   "id": 22613546,
                   "name": "eidolon",
-                  "full_name": "artsy/eidolon",
+                  "full_name": "step-security/danger-swift",
                   "owner": {
                     "login": "artsy",
                     "id": 546231,
@@ -708,53 +708,53 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                     "site_admin": false
                   },
                   "private": false,
-                  "html_url": "https://github.com/artsy/eidolon",
+                  "html_url": "https://github.com/step-security/danger-swift",
                   "description": "The Artsy Auction Kiosk App",
                   "fork": false,
-                  "url": "https://api.github.com/repos/artsy/eidolon",
-                  "forks_url": "https://api.github.com/repos/artsy/eidolon/forks",
-                  "keys_url": "https://api.github.com/repos/artsy/eidolon/keys{/key_id}",
-                  "collaborators_url": "https://api.github.com/repos/artsy/eidolon/collaborators{/collaborator}",
-                  "teams_url": "https://api.github.com/repos/artsy/eidolon/teams",
-                  "hooks_url": "https://api.github.com/repos/artsy/eidolon/hooks",
-                  "issue_events_url": "https://api.github.com/repos/artsy/eidolon/issues/events{/number}",
-                  "events_url": "https://api.github.com/repos/artsy/eidolon/events",
-                  "assignees_url": "https://api.github.com/repos/artsy/eidolon/assignees{/user}",
-                  "branches_url": "https://api.github.com/repos/artsy/eidolon/branches{/branch}",
-                  "tags_url": "https://api.github.com/repos/artsy/eidolon/tags",
-                  "blobs_url": "https://api.github.com/repos/artsy/eidolon/git/blobs{/sha}",
-                  "git_tags_url": "https://api.github.com/repos/artsy/eidolon/git/tags{/sha}",
-                  "git_refs_url": "https://api.github.com/repos/artsy/eidolon/git/refs{/sha}",
-                  "trees_url": "https://api.github.com/repos/artsy/eidolon/git/trees{/sha}",
-                  "statuses_url": "https://api.github.com/repos/artsy/eidolon/statuses/{sha}",
-                  "languages_url": "https://api.github.com/repos/artsy/eidolon/languages",
-                  "stargazers_url": "https://api.github.com/repos/artsy/eidolon/stargazers",
-                  "contributors_url": "https://api.github.com/repos/artsy/eidolon/contributors",
-                  "subscribers_url": "https://api.github.com/repos/artsy/eidolon/subscribers",
-                  "subscription_url": "https://api.github.com/repos/artsy/eidolon/subscription",
-                  "commits_url": "https://api.github.com/repos/artsy/eidolon/commits{/sha}",
-                  "git_commits_url": "https://api.github.com/repos/artsy/eidolon/git/commits{/sha}",
-                  "comments_url": "https://api.github.com/repos/artsy/eidolon/comments{/number}",
-                  "issue_comment_url": "https://api.github.com/repos/artsy/eidolon/issues/comments{/number}",
-                  "contents_url": "https://api.github.com/repos/artsy/eidolon/contents/{+path}",
-                  "compare_url": "https://api.github.com/repos/artsy/eidolon/compare/{base}...{head}",
-                  "merges_url": "https://api.github.com/repos/artsy/eidolon/merges",
-                  "archive_url": "https://api.github.com/repos/artsy/eidolon/{archive_format}{/ref}",
-                  "downloads_url": "https://api.github.com/repos/artsy/eidolon/downloads",
-                  "issues_url": "https://api.github.com/repos/artsy/eidolon/issues{/number}",
-                  "pulls_url": "https://api.github.com/repos/artsy/eidolon/pulls{/number}",
-                  "milestones_url": "https://api.github.com/repos/artsy/eidolon/milestones{/number}",
-                  "notifications_url": "https://api.github.com/repos/artsy/eidolon/notifications{?since,all,participating}",
-                  "labels_url": "https://api.github.com/repos/artsy/eidolon/labels{/name}",
-                  "releases_url": "https://api.github.com/repos/artsy/eidolon/releases{/id}",
-                  "deployments_url": "https://api.github.com/repos/artsy/eidolon/deployments",
+                  "url": "https://api.github.com/repos/step-security/danger-swift",
+                  "forks_url": "https://api.github.com/repos/step-security/danger-swift/forks",
+                  "keys_url": "https://api.github.com/repos/step-security/danger-swift/keys{/key_id}",
+                  "collaborators_url": "https://api.github.com/repos/step-security/danger-swift/collaborators{/collaborator}",
+                  "teams_url": "https://api.github.com/repos/step-security/danger-swift/teams",
+                  "hooks_url": "https://api.github.com/repos/step-security/danger-swift/hooks",
+                  "issue_events_url": "https://api.github.com/repos/step-security/danger-swift/issues/events{/number}",
+                  "events_url": "https://api.github.com/repos/step-security/danger-swift/events",
+                  "assignees_url": "https://api.github.com/repos/step-security/danger-swift/assignees{/user}",
+                  "branches_url": "https://api.github.com/repos/step-security/danger-swift/branches{/branch}",
+                  "tags_url": "https://api.github.com/repos/step-security/danger-swift/tags",
+                  "blobs_url": "https://api.github.com/repos/step-security/danger-swift/git/blobs{/sha}",
+                  "git_tags_url": "https://api.github.com/repos/step-security/danger-swift/git/tags{/sha}",
+                  "git_refs_url": "https://api.github.com/repos/step-security/danger-swift/git/refs{/sha}",
+                  "trees_url": "https://api.github.com/repos/step-security/danger-swift/git/trees{/sha}",
+                  "statuses_url": "https://api.github.com/repos/step-security/danger-swift/statuses/{sha}",
+                  "languages_url": "https://api.github.com/repos/step-security/danger-swift/languages",
+                  "stargazers_url": "https://api.github.com/repos/step-security/danger-swift/stargazers",
+                  "contributors_url": "https://api.github.com/repos/step-security/danger-swift/contributors",
+                  "subscribers_url": "https://api.github.com/repos/step-security/danger-swift/subscribers",
+                  "subscription_url": "https://api.github.com/repos/step-security/danger-swift/subscription",
+                  "commits_url": "https://api.github.com/repos/step-security/danger-swift/commits{/sha}",
+                  "git_commits_url": "https://api.github.com/repos/step-security/danger-swift/git/commits{/sha}",
+                  "comments_url": "https://api.github.com/repos/step-security/danger-swift/comments{/number}",
+                  "issue_comment_url": "https://api.github.com/repos/step-security/danger-swift/issues/comments{/number}",
+                  "contents_url": "https://api.github.com/repos/step-security/danger-swift/contents/{+path}",
+                  "compare_url": "https://api.github.com/repos/step-security/danger-swift/compare/{base}...{head}",
+                  "merges_url": "https://api.github.com/repos/step-security/danger-swift/merges",
+                  "archive_url": "https://api.github.com/repos/step-security/danger-swift/{archive_format}{/ref}",
+                  "downloads_url": "https://api.github.com/repos/step-security/danger-swift/downloads",
+                  "issues_url": "https://api.github.com/repos/step-security/danger-swift/issues{/number}",
+                  "pulls_url": "https://api.github.com/repos/step-security/danger-swift/pulls{/number}",
+                  "milestones_url": "https://api.github.com/repos/step-security/danger-swift/milestones{/number}",
+                  "notifications_url": "https://api.github.com/repos/step-security/danger-swift/notifications{?since,all,participating}",
+                  "labels_url": "https://api.github.com/repos/step-security/danger-swift/labels{/name}",
+                  "releases_url": "https://api.github.com/repos/step-security/danger-swift/releases{/id}",
+                  "deployments_url": "https://api.github.com/repos/step-security/danger-swift/deployments",
                   "created_at": "2014-08-04T17:38:26Z",
                   "updated_at": "2017-10-24T08:59:48Z",
                   "pushed_at": "2017-09-22T21:03:37Z",
-                  "git_url": "git://github.com/artsy/eidolon.git",
-                  "ssh_url": "git@github.com:artsy/eidolon.git",
-                  "clone_url": "https://github.com/artsy/eidolon.git",
-                  "svn_url": "https://github.com/artsy/eidolon",
+                  "git_url": "git://github.com/step-security/danger-swift.git",
+                  "ssh_url": "git@github.com:step-security/danger-swift.git",
+                  "clone_url": "https://github.com/step-security/danger-swift.git",
+                  "svn_url": "https://github.com/step-security/danger-swift",
                   "homepage": "http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/",
                   "size": 135512,
                   "stargazers_count": 1999,
@@ -777,28 +777,28 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
               },
               "_links": {
                 "self": {
-                  "href": "https://api.github.com/repos/artsy/eidolon/pulls/609"
+                  "href": "https://api.github.com/repos/step-security/danger-swift/pulls/609"
                 },
                 "html": {
-                  "href": "https://github.com/artsy/eidolon/pull/609"
+                  "href": "https://github.com/step-security/danger-swift/pull/609"
                 },
                 "issue": {
-                  "href": "https://api.github.com/repos/artsy/eidolon/issues/609"
+                  "href": "https://api.github.com/repos/step-security/danger-swift/issues/609"
                 },
                 "comments": {
-                  "href": "https://api.github.com/repos/artsy/eidolon/issues/609/comments"
+                  "href": "https://api.github.com/repos/step-security/danger-swift/issues/609/comments"
                 },
                 "review_comments": {
-                  "href": "https://api.github.com/repos/artsy/eidolon/pulls/609/comments"
+                  "href": "https://api.github.com/repos/step-security/danger-swift/pulls/609/comments"
                 },
                 "review_comment": {
-                  "href": "https://api.github.com/repos/artsy/eidolon/pulls/comments{/number}"
+                  "href": "https://api.github.com/repos/step-security/danger-swift/pulls/comments{/number}"
                 },
                 "commits": {
-                  "href": "https://api.github.com/repos/artsy/eidolon/pulls/609/commits"
+                  "href": "https://api.github.com/repos/step-security/danger-swift/pulls/609/commits"
                 },
                 "statuses": {
-                  "href": "https://api.github.com/repos/artsy/eidolon/statuses/d769f276e066d79169a8bfa5795c8a4853f942f3"
+                  "href": "https://api.github.com/repos/step-security/danger-swift/statuses/d769f276e066d79169a8bfa5795c8a4853f942f3"
                 }
               },
               "author_association": "MEMBER",
@@ -851,9 +851,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Xcode] Updates for compatibility with Xcode 7.3.1.",
                   "tree": {
                     "sha": "fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/93ae30cf2aee4241c442fb3242543490998cffdb",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/93ae30cf2aee4241c442fb3242543490998cffdb",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -864,10 +864,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1\\nparent 68c8db83776c1942145f530159a3fffddb812577\\nauthor step-security <security@stepsecurity.io> 1469562856 -0400\\ncommitter step-security <security@stepsecurity.io> 1469562900 -0400\\n\\n[Xcode] Updates for compatibility with Xcode 7.3.1.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/93ae30cf2aee4241c442fb3242543490998cffdb",
-                "html_url": "https://github.com/artsy/eidolon/commit/93ae30cf2aee4241c442fb3242543490998cffdb",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/93ae30cf2aee4241c442fb3242543490998cffdb",
+                "html_url": "https://github.com/step-security/danger-swift/commit/93ae30cf2aee4241c442fb3242543490998cffdb",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/93ae30cf2aee4241c442fb3242543490998cffdb/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/93ae30cf2aee4241c442fb3242543490998cffdb/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -909,8 +909,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "68c8db83776c1942145f530159a3fffddb812577",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/68c8db83776c1942145f530159a3fffddb812577",
-                    "html_url": "https://github.com/artsy/eidolon/commit/68c8db83776c1942145f530159a3fffddb812577"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/68c8db83776c1942145f530159a3fffddb812577",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/68c8db83776c1942145f530159a3fffddb812577"
                   }
                 ]
               },
@@ -930,9 +930,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[CI] Updates Travis to Xcode 7.3.",
                   "tree": {
                     "sha": "01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -943,10 +943,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a\\nparent 93ae30cf2aee4241c442fb3242543490998cffdb\\nauthor step-security <security@stepsecurity.io> 1469562953 -0400\\ncommitter step-security <security@stepsecurity.io> 1469562953 -0400\\n\\n[CI] Updates Travis to Xcode 7.3.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
-                "html_url": "https://github.com/artsy/eidolon/commit/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
+                "html_url": "https://github.com/step-security/danger-swift/commit/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -988,8 +988,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "93ae30cf2aee4241c442fb3242543490998cffdb",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/93ae30cf2aee4241c442fb3242543490998cffdb",
-                    "html_url": "https://github.com/artsy/eidolon/commit/93ae30cf2aee4241c442fb3242543490998cffdb"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/93ae30cf2aee4241c442fb3242543490998cffdb",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/93ae30cf2aee4241c442fb3242543490998cffdb"
                   }
                 ]
               },
@@ -1009,9 +1009,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Deps] Updates dependencies for Swift 2.2.",
                   "tree": {
                     "sha": "a30d9d8be16847c33eb50483a653f27475f197a4",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/a30d9d8be16847c33eb50483a653f27475f197a4"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/a30d9d8be16847c33eb50483a653f27475f197a4"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1022,10 +1022,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree a30d9d8be16847c33eb50483a653f27475f197a4\\nparent 4cf1e41f72516a4135f1738c47f7dd3d421ff3c4\\nauthor step-security <security@stepsecurity.io> 1469567860 -0400\\ncommitter step-security <security@stepsecurity.io> 1469567860 -0400\\n\\n[Deps] Updates dependencies for Swift 2.2.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
-                "html_url": "https://github.com/artsy/eidolon/commit/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
+                "html_url": "https://github.com/step-security/danger-swift/commit/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1067,8 +1067,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
-                    "html_url": "https://github.com/artsy/eidolon/commit/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4"
                   }
                 ]
               },
@@ -1088,9 +1088,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Tests] Cleans up snapshot tests for Xcode 7.3.1.",
                   "tree": {
                     "sha": "74f18cfa9f377497c46295e5bc254556a9eb159f",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/74f18cfa9f377497c46295e5bc254556a9eb159f"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/74f18cfa9f377497c46295e5bc254556a9eb159f"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1101,10 +1101,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 74f18cfa9f377497c46295e5bc254556a9eb159f\\nparent d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac\\nauthor step-security <security@stepsecurity.io> 1471293660 -0400\\ncommitter step-security <security@stepsecurity.io> 1471293660 -0400\\n\\n[Tests] Cleans up snapshot tests for Xcode 7.3.1.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
-                "html_url": "https://github.com/artsy/eidolon/commit/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
+                "html_url": "https://github.com/step-security/danger-swift/commit/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1146,8 +1146,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
-                    "html_url": "https://github.com/artsy/eidolon/commit/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac"
                   }
                 ]
               },
@@ -1167,9 +1167,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Tests] Fixes typo, thanks @Gerst20051.",
                   "tree": {
                     "sha": "505840c1fd602e9ce7e44fda47488229aa1284b2",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/505840c1fd602e9ce7e44fda47488229aa1284b2"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/505840c1fd602e9ce7e44fda47488229aa1284b2"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/263d74a15e856f563f18864c459167c46c92cf48",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/263d74a15e856f563f18864c459167c46c92cf48",
                   "comment_count": 1,
                   "verification": {
                     "verified": true,
@@ -1180,10 +1180,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 505840c1fd602e9ce7e44fda47488229aa1284b2\\nparent c330e8dfc6ae553a98fb9ffa6347f87d9f00f864\\nauthor step-security <security@stepsecurity.io> 1471293733 -0400\\ncommitter step-security <security@stepsecurity.io> 1471293733 -0400\\n\\n[Tests] Fixes typo, thanks @Gerst20051.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/263d74a15e856f563f18864c459167c46c92cf48",
-                "html_url": "https://github.com/artsy/eidolon/commit/263d74a15e856f563f18864c459167c46c92cf48",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/263d74a15e856f563f18864c459167c46c92cf48",
+                "html_url": "https://github.com/step-security/danger-swift/commit/263d74a15e856f563f18864c459167c46c92cf48",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/263d74a15e856f563f18864c459167c46c92cf48/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/263d74a15e856f563f18864c459167c46c92cf48/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1225,8 +1225,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
-                    "html_url": "https://github.com/artsy/eidolon/commit/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864"
                   }
                 ]
               },
@@ -1246,9 +1246,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Podfile] Adds comment for specific pod commit.",
                   "tree": {
                     "sha": "4589f4905bd0e23710a257ed6560983cbda91838",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/4589f4905bd0e23710a257ed6560983cbda91838"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/4589f4905bd0e23710a257ed6560983cbda91838"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1259,10 +1259,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 4589f4905bd0e23710a257ed6560983cbda91838\\nparent 263d74a15e856f563f18864c459167c46c92cf48\\nauthor step-security <security@stepsecurity.io> 1471294446 -0400\\ncommitter step-security <security@stepsecurity.io> 1471294446 -0400\\n\\n[Podfile] Adds comment for specific pod commit.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
-                "html_url": "https://github.com/artsy/eidolon/commit/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
+                "html_url": "https://github.com/step-security/danger-swift/commit/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1304,8 +1304,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "263d74a15e856f563f18864c459167c46c92cf48",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/263d74a15e856f563f18864c459167c46c92cf48",
-                    "html_url": "https://github.com/artsy/eidolon/commit/263d74a15e856f563f18864c459167c46c92cf48"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/263d74a15e856f563f18864c459167c46c92cf48",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/263d74a15e856f563f18864c459167c46c92cf48"
                   }
                 ]
               },
@@ -1325,9 +1325,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[CI] Fix for intermittent CI failures.",
                   "tree": {
                     "sha": "e31f2c677fd09e21e2a056853a9f722c8f6a6c69",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/e31f2c677fd09e21e2a056853a9f722c8f6a6c69"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/e31f2c677fd09e21e2a056853a9f722c8f6a6c69"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1338,10 +1338,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree e31f2c677fd09e21e2a056853a9f722c8f6a6c69\\nparent b71e4f62e248f2ca166582c4c9a6f15e14eaa15f\\nauthor step-security <security@stepsecurity.io> 1471389831 -0400\\ncommitter step-security <security@stepsecurity.io> 1471389831 -0400\\n\\n[CI] Fix for intermittent CI failures.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0",
-                "html_url": "https://github.com/artsy/eidolon/commit/31b4eccb1bba8510485d468a0b73221eead2b0f0",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0",
+                "html_url": "https://github.com/step-security/danger-swift/commit/31b4eccb1bba8510485d468a0b73221eead2b0f0",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1383,8 +1383,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
-                    "html_url": "https://github.com/artsy/eidolon/commit/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f"
                   }
                 ]
               },
@@ -1404,9 +1404,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Ruby] Adds version-specifier.",
                   "tree": {
                     "sha": "9226b26bd2cc9f6e50076badff8229bec8ff818b",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/9226b26bd2cc9f6e50076badff8229bec8ff818b"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/9226b26bd2cc9f6e50076badff8229bec8ff818b"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/db2af03f247bec4d12a3e743b4464a70501fac77",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/db2af03f247bec4d12a3e743b4464a70501fac77",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1417,10 +1417,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 9226b26bd2cc9f6e50076badff8229bec8ff818b\\nparent 31b4eccb1bba8510485d468a0b73221eead2b0f0\\nauthor step-security <security@stepsecurity.io> 1471440887 -0400\\ncommitter step-security <security@stepsecurity.io> 1471440887 -0400\\n\\n[Ruby] Adds version-specifier.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/db2af03f247bec4d12a3e743b4464a70501fac77",
-                "html_url": "https://github.com/artsy/eidolon/commit/db2af03f247bec4d12a3e743b4464a70501fac77",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/db2af03f247bec4d12a3e743b4464a70501fac77",
+                "html_url": "https://github.com/step-security/danger-swift/commit/db2af03f247bec4d12a3e743b4464a70501fac77",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/db2af03f247bec4d12a3e743b4464a70501fac77/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/db2af03f247bec4d12a3e743b4464a70501fac77/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1462,8 +1462,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "31b4eccb1bba8510485d468a0b73221eead2b0f0",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0",
-                    "html_url": "https://github.com/artsy/eidolon/commit/31b4eccb1bba8510485d468a0b73221eead2b0f0"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/31b4eccb1bba8510485d468a0b73221eead2b0f0"
                   }
                 ]
               },
@@ -1483,9 +1483,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[CI] Split up failing test + switch to syncrhonous testing.",
                   "tree": {
                     "sha": "64bc098d18f98b3363e7a02fefba816140e17b8f",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/64bc098d18f98b3363e7a02fefba816140e17b8f"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/64bc098d18f98b3363e7a02fefba816140e17b8f"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1496,10 +1496,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 64bc098d18f98b3363e7a02fefba816140e17b8f\\nparent db2af03f247bec4d12a3e743b4464a70501fac77\\nauthor step-security <security@stepsecurity.io> 1471441349 -0400\\ncommitter step-security <security@stepsecurity.io> 1471441349 -0400\\n\\n[CI] Split up failing test + switch to syncrhonous testing.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c",
-                "html_url": "https://github.com/artsy/eidolon/commit/57b041fbbbebd075f7fe186fb754cf7cce85519c",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c",
+                "html_url": "https://github.com/step-security/danger-swift/commit/57b041fbbbebd075f7fe186fb754cf7cce85519c",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1541,8 +1541,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "db2af03f247bec4d12a3e743b4464a70501fac77",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/db2af03f247bec4d12a3e743b4464a70501fac77",
-                    "html_url": "https://github.com/artsy/eidolon/commit/db2af03f247bec4d12a3e743b4464a70501fac77"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/db2af03f247bec4d12a3e743b4464a70501fac77",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/db2af03f247bec4d12a3e743b4464a70501fac77"
                   }
                 ]
               },
@@ -1562,9 +1562,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[CI] Fixes pre-launching simulator UUID.",
                   "tree": {
                     "sha": "9cbec8e2436334ac71c0254ff34595d24cf1c134",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/9cbec8e2436334ac71c0254ff34595d24cf1c134"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/9cbec8e2436334ac71c0254ff34595d24cf1c134"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1575,10 +1575,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 9cbec8e2436334ac71c0254ff34595d24cf1c134\\nparent 57b041fbbbebd075f7fe186fb754cf7cce85519c\\nauthor step-security <security@stepsecurity.io> 1471441723 -0400\\ncommitter step-security <security@stepsecurity.io> 1471442310 -0400\\n\\n[CI] Fixes pre-launching simulator UUID.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
-                "html_url": "https://github.com/artsy/eidolon/commit/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
+                "html_url": "https://github.com/step-security/danger-swift/commit/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1620,8 +1620,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "57b041fbbbebd075f7fe186fb754cf7cce85519c",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c",
-                    "html_url": "https://github.com/artsy/eidolon/commit/57b041fbbbebd075f7fe186fb754cf7cce85519c"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/57b041fbbbebd075f7fe186fb754cf7cce85519c"
                   }
                 ]
               },
@@ -1641,9 +1641,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[CI] Fixes intermittently failing test comparing dates.",
                   "tree": {
                     "sha": "2ab689baa382cc918289529955121d17672db7a4",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/2ab689baa382cc918289529955121d17672db7a4"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/2ab689baa382cc918289529955121d17672db7a4"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1654,10 +1654,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 2ab689baa382cc918289529955121d17672db7a4\\nparent 851e911b4e8697a0f8e3b84c19df6cec30aead2a\\nauthor step-security <security@stepsecurity.io> 1471443005 -0400\\ncommitter step-security <security@stepsecurity.io> 1471443005 -0400\\n\\n[CI] Fixes intermittently failing test comparing dates.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
-                "html_url": "https://github.com/artsy/eidolon/commit/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
+                "html_url": "https://github.com/step-security/danger-swift/commit/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1699,8 +1699,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "851e911b4e8697a0f8e3b84c19df6cec30aead2a",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
-                    "html_url": "https://github.com/artsy/eidolon/commit/851e911b4e8697a0f8e3b84c19df6cec30aead2a"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/851e911b4e8697a0f8e3b84c19df6cec30aead2a"
                   }
                 ]
               },
@@ -1720,9 +1720,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Deps] Updates dependencies to latest Swift 2.x versions.",
                   "tree": {
                     "sha": "0ef37421cfa8cbd2d729e58de786b77f6219d3ad",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/0ef37421cfa8cbd2d729e58de786b77f6219d3ad"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/0ef37421cfa8cbd2d729e58de786b77f6219d3ad"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1733,10 +1733,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 0ef37421cfa8cbd2d729e58de786b77f6219d3ad\\nparent 9963a5ff97b5dbd423df740c50e01a9dffd0a3ff\\nauthor step-security <security@stepsecurity.io> 1471444887 -0400\\ncommitter step-security <security@stepsecurity.io> 1471444887 -0400\\n\\n[Deps] Updates dependencies to latest Swift 2.x versions.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f",
-                "html_url": "https://github.com/artsy/eidolon/commit/1aa0360bc7a95d7878160ae91eea62324ac3252f",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f",
+                "html_url": "https://github.com/step-security/danger-swift/commit/1aa0360bc7a95d7878160ae91eea62324ac3252f",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1778,8 +1778,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
-                    "html_url": "https://github.com/artsy/eidolon/commit/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff"
                   }
                 ]
               },
@@ -1799,9 +1799,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[CI] Fixes more intermittent tests.",
                   "tree": {
                     "sha": "00271b152921db4988396350eca46ed6b19f6649",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/00271b152921db4988396350eca46ed6b19f6649"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/00271b152921db4988396350eca46ed6b19f6649"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1812,10 +1812,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 00271b152921db4988396350eca46ed6b19f6649\\nparent 1aa0360bc7a95d7878160ae91eea62324ac3252f\\nauthor step-security <security@stepsecurity.io> 1471444891 -0400\\ncommitter step-security <security@stepsecurity.io> 1471444891 -0400\\n\\n[CI] Fixes more intermittent tests.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
-                "html_url": "https://github.com/artsy/eidolon/commit/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
+                "html_url": "https://github.com/step-security/danger-swift/commit/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1857,8 +1857,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "1aa0360bc7a95d7878160ae91eea62324ac3252f",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f",
-                    "html_url": "https://github.com/artsy/eidolon/commit/1aa0360bc7a95d7878160ae91eea62324ac3252f"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/1aa0360bc7a95d7878160ae91eea62324ac3252f"
                   }
                 ]
               },
@@ -1878,9 +1878,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[CI] Removed duplicate simulator launch.",
                   "tree": {
                     "sha": "965807f296e1a3fb30134508062825cf30806786",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/965807f296e1a3fb30134508062825cf30806786"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/965807f296e1a3fb30134508062825cf30806786"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1891,10 +1891,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 965807f296e1a3fb30134508062825cf30806786\\nparent fb0688c603ddb48afe0edad336d3a7fac6f5e9f7\\nauthor step-security <security@stepsecurity.io> 1471445734 -0400\\ncommitter step-security <security@stepsecurity.io> 1471445734 -0400\\n\\n[CI] Removed duplicate simulator launch.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
-                "html_url": "https://github.com/artsy/eidolon/commit/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
+                "html_url": "https://github.com/step-security/danger-swift/commit/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -1936,8 +1936,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
-                    "html_url": "https://github.com/artsy/eidolon/commit/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7"
                   }
                 ]
               },
@@ -1957,9 +1957,9 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                   "message": "[Feedback] Adds clarifying comments as per feedback in #609.",
                   "tree": {
                     "sha": "9004fe3df2b4d7d3285460095c37d9f62b4be26a",
-                    "url": "https://api.github.com/repos/artsy/eidolon/git/trees/9004fe3df2b4d7d3285460095c37d9f62b4be26a"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/git/trees/9004fe3df2b4d7d3285460095c37d9f62b4be26a"
                   },
-                  "url": "https://api.github.com/repos/artsy/eidolon/git/commits/d769f276e066d79169a8bfa5795c8a4853f942f3",
+                  "url": "https://api.github.com/repos/step-security/danger-swift/git/commits/d769f276e066d79169a8bfa5795c8a4853f942f3",
                   "comment_count": 0,
                   "verification": {
                     "verified": true,
@@ -1970,10 +1970,10 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                       "tree 9004fe3df2b4d7d3285460095c37d9f62b4be26a\\nparent c6eb849f100cbaa261680ee0d3dc819b91aa8af1\\nauthor step-security <security@stepsecurity.io> 1471446859 -0400\\ncommitter step-security <security@stepsecurity.io> 1471447242 -0400\\n\\n[Feedback] Adds clarifying comments as per feedback in #609.\\n"
                   }
                 },
-                "url": "https://api.github.com/repos/artsy/eidolon/commits/d769f276e066d79169a8bfa5795c8a4853f942f3",
-                "html_url": "https://github.com/artsy/eidolon/commit/d769f276e066d79169a8bfa5795c8a4853f942f3",
+                "url": "https://api.github.com/repos/step-security/danger-swift/commits/d769f276e066d79169a8bfa5795c8a4853f942f3",
+                "html_url": "https://github.com/step-security/danger-swift/commit/d769f276e066d79169a8bfa5795c8a4853f942f3",
                 "comments_url":
-                  "https://api.github.com/repos/artsy/eidolon/commits/d769f276e066d79169a8bfa5795c8a4853f942f3/comments",
+                  "https://api.github.com/repos/step-security/danger-swift/commits/d769f276e066d79169a8bfa5795c8a4853f942f3/comments",
                 "author": {
                   "login": "ashfurrow",
                   "id": 498212,
@@ -2015,8 +2015,8 @@ public func githubJSONWithFiles(created: [String] = [], modified: [String] = [],
                 "parents": [
                   {
                     "sha": "c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
-                    "url": "https://api.github.com/repos/artsy/eidolon/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
-                    "html_url": "https://github.com/artsy/eidolon/commit/c6eb849f100cbaa261680ee0d3dc819b91aa8af1"
+                    "url": "https://api.github.com/repos/step-security/danger-swift/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
+                    "html_url": "https://github.com/step-security/danger-swift/commit/c6eb849f100cbaa261680ee0d3dc819b91aa8af1"
                   }
                 ]
               }
