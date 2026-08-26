@@ -69,13 +69,13 @@ public let DSLGitHubJSON = """
             "sha": "93ae30cf2aee4241c442fb3242543490998cffdb",
             "parents": ["68c8db83776c1942145f530159a3fffddb812577"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-07-26T19:54:16Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-07-26T19:55:00Z"
             },
             "message": "[Xcode] Updates for compatibility with Xcode 7.3.1.",
@@ -89,13 +89,13 @@ public let DSLGitHubJSON = """
             "sha": "4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
             "parents": ["93ae30cf2aee4241c442fb3242543490998cffdb"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-07-26T19:55:53Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-07-26T19:55:53Z"
             },
             "message": "[CI] Updates Travis to Xcode 7.3.",
@@ -109,13 +109,13 @@ public let DSLGitHubJSON = """
             "sha": "d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
             "parents": ["4cf1e41f72516a4135f1738c47f7dd3d421ff3c4"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-07-26T21:17:40Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-07-26T21:17:40Z"
             },
             "message": "[Deps] Updates dependencies for Swift 2.2.",
@@ -129,13 +129,13 @@ public let DSLGitHubJSON = """
             "sha": "c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
             "parents": ["d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-15T20:41:00Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-15T20:41:00Z"
             },
             "message": "[Tests] Cleans up snapshot tests for Xcode 7.3.1.",
@@ -149,13 +149,13 @@ public let DSLGitHubJSON = """
             "sha": "263d74a15e856f563f18864c459167c46c92cf48",
             "parents": ["c330e8dfc6ae553a98fb9ffa6347f87d9f00f864"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-15T20:42:13Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-15T20:42:13Z"
             },
             "message": "[Tests] Fixes typo, thanks @Gerst20051.",
@@ -169,13 +169,13 @@ public let DSLGitHubJSON = """
             "sha": "b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
             "parents": ["263d74a15e856f563f18864c459167c46c92cf48"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-15T20:54:06Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-15T20:54:06Z"
             },
             "message": "[Podfile] Adds comment for specific pod commit.",
@@ -189,13 +189,13 @@ public let DSLGitHubJSON = """
             "sha": "31b4eccb1bba8510485d468a0b73221eead2b0f0",
             "parents": ["b71e4f62e248f2ca166582c4c9a6f15e14eaa15f"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-16T23:23:51Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-16T23:23:51Z"
             },
             "message": "[CI] Fix for intermittent CI failures.",
@@ -209,13 +209,13 @@ public let DSLGitHubJSON = """
             "sha": "db2af03f247bec4d12a3e743b4464a70501fac77",
             "parents": ["31b4eccb1bba8510485d468a0b73221eead2b0f0"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T13:34:47Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T13:34:47Z"
             },
             "message": "[Ruby] Adds version-specifier.",
@@ -229,13 +229,13 @@ public let DSLGitHubJSON = """
             "sha": "57b041fbbbebd075f7fe186fb754cf7cce85519c",
             "parents": ["db2af03f247bec4d12a3e743b4464a70501fac77"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T13:42:29Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T13:42:29Z"
             },
             "message": "[CI] Split up failing test + switch to syncrhonous testing.",
@@ -249,13 +249,13 @@ public let DSLGitHubJSON = """
             "sha": "851e911b4e8697a0f8e3b84c19df6cec30aead2a",
             "parents": ["57b041fbbbebd075f7fe186fb754cf7cce85519c"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T13:48:43Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T13:58:30Z"
             },
             "message": "[CI] Fixes pre-launching simulator UUID.",
@@ -269,13 +269,13 @@ public let DSLGitHubJSON = """
             "sha": "9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
             "parents": ["851e911b4e8697a0f8e3b84c19df6cec30aead2a"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:10:05Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:10:05Z"
             },
             "message": "[CI] Fixes intermittently failing test comparing dates.",
@@ -289,13 +289,13 @@ public let DSLGitHubJSON = """
             "sha": "1aa0360bc7a95d7878160ae91eea62324ac3252f",
             "parents": ["9963a5ff97b5dbd423df740c50e01a9dffd0a3ff"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:41:27Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:41:27Z"
             },
             "message": "[Deps] Updates dependencies to latest Swift 2.x versions.",
@@ -309,13 +309,13 @@ public let DSLGitHubJSON = """
             "sha": "fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
             "parents": ["1aa0360bc7a95d7878160ae91eea62324ac3252f"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:41:31Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:41:31Z"
             },
             "message": "[CI] Fixes more intermittent tests.",
@@ -329,13 +329,13 @@ public let DSLGitHubJSON = """
             "sha": "c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
             "parents": ["fb0688c603ddb48afe0edad336d3a7fac6f5e9f7"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:55:34Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T14:55:34Z"
             },
             "message": "[CI] Removed duplicate simulator launch.",
@@ -349,13 +349,13 @@ public let DSLGitHubJSON = """
             "sha": "d769f276e066d79169a8bfa5795c8a4853f942f3",
             "parents": ["c6eb849f100cbaa261680ee0d3dc819b91aa8af1"],
             "author": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T15:14:19Z"
             },
             "committer": {
-              "name": "Ash Furrow",
-              "email": "ash@ashfurrow.com",
+              "name": "step-security",
+              "email": "security@stepsecurity.io",
               "date": "2016-08-17T15:20:42Z"
             },
             "message": "[Feedback] Adds clarifying comments as per feedback in #609.",
@@ -885,13 +885,13 @@ public let DSLGitHubJSON = """
             "sha": "93ae30cf2aee4241c442fb3242543490998cffdb",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-07-26T19:54:16Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-07-26T19:55:00Z"
               },
               "message": "[Xcode] Updates for compatibility with Xcode 7.3.1.",
@@ -907,7 +907,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXl8AUAAoJEAGZOscENF/tIA8H/Ri9VdHJAzfO1aAtnoQ5W8Kw\\n1yYd5BTVnr0nVw95qxBgoRbBLMUIKg0TOPQQa1h7hk6SOr0py6E4HSpCJQq97f8J\\nvgeiFHuyfcW/ePSS8WwJbIzTP3xkckvdZIPjXM1KtvzQ1vCoOrOwBxMqH2twoTQk\\nuGd5cgfsahUGHcwYA6B4vfkmAGLkOyFVjUzbDgf1nT5CMbPVlbFgss3aEi8Ql81S\\ncNjtMGiUm9n3LUG5lMiwOC3898fpE8YYoAPy1CtLuwokGws3Tu9jMSnUCi2Al7KC\\nzWMpIS3L2WVoCdhiv2NbXxUDTbaYn8llKGdtzw3QLZ0AL5ZEkuKrxtDQGyimpaw=\\n=aGrl\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1\\nparent 68c8db83776c1942145f530159a3fffddb812577\\nauthor Ash Furrow <ash@ashfurrow.com> 1469562856 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1469562900 -0400\\n\\n[Xcode] Updates for compatibility with Xcode 7.3.1.\\n"
+                  "tree fb6bc3fda2456c5ff0a4e8f307f24ee73f281fc1\\nparent 68c8db83776c1942145f530159a3fffddb812577\\nauthor step-security <security@stepsecurity.io> 1469562856 -0400\\ncommitter step-security <security@stepsecurity.io> 1469562900 -0400\\n\\n[Xcode] Updates for compatibility with Xcode 7.3.1.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/93ae30cf2aee4241c442fb3242543490998cffdb",
@@ -964,13 +964,13 @@ public let DSLGitHubJSON = """
             "sha": "4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-07-26T19:55:53Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-07-26T19:55:53Z"
               },
               "message": "[CI] Updates Travis to Xcode 7.3.",
@@ -986,7 +986,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXl8BJAAoJEAGZOscENF/tQAcH/0I+QcSDZDEab6mkYSvX88jP\\nbd7Y+O/9CGD9srYIVXE8xGSfO4JKU+sQXLiLsN1OKrHVvdH1SUyE+mUKa68s+8dA\\nXYo7Ozg3ieL/DearxnCeSkKqIEsVlhvJzbyloWfPwnm9shfgQFnwuBj0A/nMBXBK\\nuNfHq9zR7mSe74r1f89FfddWbNmB6z8Ju0GLwLLbnpD1AzB7cTfDgXNjx8Og++LI\\n6xGSNmEqApCYdLPhVW71m/FXzSTF71y/j2QzyG6Jr8n0VhRm7YY4q2kZWHE2RsRT\\nGIZt1vuFrT8hddsKy0gC3wrrOPn7FOxZWkWvXHzBeuKlDXUD8aOPjm9AEeOBAs8=\\n=Xe+7\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a\\nparent 93ae30cf2aee4241c442fb3242543490998cffdb\\nauthor Ash Furrow <ash@ashfurrow.com> 1469562953 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1469562953 -0400\\n\\n[CI] Updates Travis to Xcode 7.3.\\n"
+                  "tree 01f7e53a061a1df01e7d6d3a6fb4d2ce9ee0e39a\\nparent 93ae30cf2aee4241c442fb3242543490998cffdb\\nauthor step-security <security@stepsecurity.io> 1469562953 -0400\\ncommitter step-security <security@stepsecurity.io> 1469562953 -0400\\n\\n[CI] Updates Travis to Xcode 7.3.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/4cf1e41f72516a4135f1738c47f7dd3d421ff3c4",
@@ -1043,13 +1043,13 @@ public let DSLGitHubJSON = """
             "sha": "d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-07-26T21:17:40Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-07-26T21:17:40Z"
               },
               "message": "[Deps] Updates dependencies for Swift 2.2.",
@@ -1065,7 +1065,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXl9N0AAoJEAGZOscENF/t2dYH/iQP6IdX2P/86gNHmxNcm2n7\\n9e84aJ2vlSgBWxiOgRV2mejsz8C/woRvVpa691GCRbWch2j7yzAjIXfmDK8VlxLe\\nY98/89fThWcbZIARGRUDFRhnOYMfKWPqDRNV/kwDRTs6I5x/sFKPEAoqO1ldBc9q\\nTZmsk3IsnBFH1XoraNkp9Nmc3FC5Mra/9sgtqGHpU2eWksj5LOYUE3BQ7Z5s9NgU\\nxptToZfL11Hl4RObSDi12Fzv0prtRHuFW4w1HvxBedgbgD4k531aP3OMPmnecNcO\\n3F8U/xVS/jstKP3ODtKc9HggIEp6mrE97xqBqnCzN0gQUkaLS3TofeG5eqn9DE0=\\n=uqge\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree a30d9d8be16847c33eb50483a653f27475f197a4\\nparent 4cf1e41f72516a4135f1738c47f7dd3d421ff3c4\\nauthor Ash Furrow <ash@ashfurrow.com> 1469567860 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1469567860 -0400\\n\\n[Deps] Updates dependencies for Swift 2.2.\\n"
+                  "tree a30d9d8be16847c33eb50483a653f27475f197a4\\nparent 4cf1e41f72516a4135f1738c47f7dd3d421ff3c4\\nauthor step-security <security@stepsecurity.io> 1469567860 -0400\\ncommitter step-security <security@stepsecurity.io> 1469567860 -0400\\n\\n[Deps] Updates dependencies for Swift 2.2.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac",
@@ -1122,13 +1122,13 @@ public let DSLGitHubJSON = """
             "sha": "c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-15T20:41:00Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-15T20:41:00Z"
               },
               "message": "[Tests] Cleans up snapshot tests for Xcode 7.3.1.",
@@ -1144,7 +1144,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXsijcAAoJEAGZOscENF/tfzoIAI5sUJAnv8qkMKf9u2CEhhQd\\nJ4uUoKeWbObIXx++ps6y3LjyC6h7rxW06wOGZBrFwTseljmIvV7OYspXGNwNOia7\\n1nSSRl5d6193wu4FdQdrlrss2Kwbh9PMIeDFQBhEedrDwB6xi+eu/DeFk3jusrIJ\\njMcQtC5sp3o5Psdit2zxnwEnbMMoZ31iFd2dY50H6m6MvCaUyNVXJ5QcJccYHYc5\\nNLxsCgwkG4ONASjPBRyzwvTVJ82+Aghck6mffdylAILELAR8DH+Z/K2ciqxcEBG4\\nAPqh+P08Oxj4CUZcEWUaYKeBMJRQ1KJ2rvCtH4fTjFg/xzZS1jI2ckeuNehkRtI=\\n=LzG3\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 74f18cfa9f377497c46295e5bc254556a9eb159f\\nparent d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac\\nauthor Ash Furrow <ash@ashfurrow.com> 1471293660 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471293660 -0400\\n\\n[Tests] Cleans up snapshot tests for Xcode 7.3.1.\\n"
+                  "tree 74f18cfa9f377497c46295e5bc254556a9eb159f\\nparent d0d72ec5b5ee90c2513a8aafb48911ae5bcdf4ac\\nauthor step-security <security@stepsecurity.io> 1471293660 -0400\\ncommitter step-security <security@stepsecurity.io> 1471293660 -0400\\n\\n[Tests] Cleans up snapshot tests for Xcode 7.3.1.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/c330e8dfc6ae553a98fb9ffa6347f87d9f00f864",
@@ -1201,13 +1201,13 @@ public let DSLGitHubJSON = """
             "sha": "263d74a15e856f563f18864c459167c46c92cf48",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-15T20:42:13Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-15T20:42:13Z"
               },
               "message": "[Tests] Fixes typo, thanks @Gerst20051.",
@@ -1223,7 +1223,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXsiklAAoJEAGZOscENF/ti2QH/1EyaRpCDMxymAfkalCtt9o8\\nJWxTJE/SoD5bK9ljLwUsrvM8C3G61MSIqYr3Vn55y5/LLiLUasrLCGE1Io+EUlWb\\nxtkd95P2aAyFO9cLspCUU3xm61jSfxVfF3lFNMtH+zrdYmRF21bjyNw9Avh+21um\\nHuoDusYiqH92FSrjJzGOrCTn0zpqV7PBDDbocRILDIO98+w8/irfbDZK+up0udzx\\nTNoBusGUXoAQ//n+nqH/9c3Dzfl/uZ5chsbeKhM/bkh+MAMDXb+TKSeqUvEzGRGv\\nCeL7DTQMsr47WQrNrHHf+vTfhCDVIsJ9P/mdjQNUB4/towT+5HwVO4CJ+KFRgpA=\\n=51AP\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 505840c1fd602e9ce7e44fda47488229aa1284b2\\nparent c330e8dfc6ae553a98fb9ffa6347f87d9f00f864\\nauthor Ash Furrow <ash@ashfurrow.com> 1471293733 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471293733 -0400\\n\\n[Tests] Fixes typo, thanks @Gerst20051.\\n"
+                  "tree 505840c1fd602e9ce7e44fda47488229aa1284b2\\nparent c330e8dfc6ae553a98fb9ffa6347f87d9f00f864\\nauthor step-security <security@stepsecurity.io> 1471293733 -0400\\ncommitter step-security <security@stepsecurity.io> 1471293733 -0400\\n\\n[Tests] Fixes typo, thanks @Gerst20051.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/263d74a15e856f563f18864c459167c46c92cf48",
@@ -1280,13 +1280,13 @@ public let DSLGitHubJSON = """
             "sha": "b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-15T20:54:06Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-15T20:54:06Z"
               },
               "message": "[Podfile] Adds comment for specific pod commit.",
@@ -1302,7 +1302,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXsivuAAoJEAGZOscENF/tMV8H/jMqIqotNseYEbpil5nTII9m\\nKlxIOw/T/lHkKvTN0/hgXR/xDlXObR349YJYiPoNPAQNJa2TVeZ/PRNYNCcwGx2/\\nKtWuU5Fk1yvRW2h0wpq6rEVu/hesz9QeyXYW3esyz6QxWBKvmO8gIIq9mONS8Fz9\\nPlB+0ZneYxRwEIOZSyW5gmE1G4q0ZAWqSitfrGpta/c9N3jl/GeSuGFbfPNTFPUy\\nboocfJshdJpvEMpdyU05MYFWtxSKp6O0aPgKTqPeO5YCHGPvnPAj2a6N2gQ5TKhp\\ndqvzmeljjfZHvAr3Q+dXhHgjUWHHI8FROUTs0Ukssinq/+IrcW3FwauWeBe3l7M=\\n=dHWL\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 4589f4905bd0e23710a257ed6560983cbda91838\\nparent 263d74a15e856f563f18864c459167c46c92cf48\\nauthor Ash Furrow <ash@ashfurrow.com> 1471294446 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471294446 -0400\\n\\n[Podfile] Adds comment for specific pod commit.\\n"
+                  "tree 4589f4905bd0e23710a257ed6560983cbda91838\\nparent 263d74a15e856f563f18864c459167c46c92cf48\\nauthor step-security <security@stepsecurity.io> 1471294446 -0400\\ncommitter step-security <security@stepsecurity.io> 1471294446 -0400\\n\\n[Podfile] Adds comment for specific pod commit.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/b71e4f62e248f2ca166582c4c9a6f15e14eaa15f",
@@ -1359,13 +1359,13 @@ public let DSLGitHubJSON = """
             "sha": "31b4eccb1bba8510485d468a0b73221eead2b0f0",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-16T23:23:51Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-16T23:23:51Z"
               },
               "message": "[CI] Fix for intermittent CI failures.",
@@ -1381,7 +1381,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\n\\niQEcBAABAgAGBQJXs6CHAAoJEAGZOscENF/t0I8H/3CIBRZQXX3BB6xRb+J89BWN\\nPjWQ1xiW63N6Y9yrIRjZGMov9QeCo3hv9b/sMF2fjwc7NblVL/SjPhStl07uAHGY\\nZ9E5Rd1b8Df1DMhEKGqIf0Ne3vMuYfUrrUUwlLXwPy3BXZQNUTlQa08DKXKHb9h0\\nrNEhP5WLS5+ycottr7d4tngzJXTBIUyjOYc7qES8+NAHwGm0wiGabvaPuUrcsjPz\\nyLvuHxb8e6VVrTH/8OE/On3g546ZDJUEmM5wA8XLkgb0F70vNfU2whNvdBD1shsJ\\nBXbQUOL5FjpLbSqcLbAQCIgyfza4SYWD7XUZoMIoVbIVgRe3g/E9oN9+n7y/4fE=\\n=2sLb\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree e31f2c677fd09e21e2a056853a9f722c8f6a6c69\\nparent b71e4f62e248f2ca166582c4c9a6f15e14eaa15f\\nauthor Ash Furrow <ash@ashfurrow.com> 1471389831 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471389831 -0400\\n\\n[CI] Fix for intermittent CI failures.\\n"
+                  "tree e31f2c677fd09e21e2a056853a9f722c8f6a6c69\\nparent b71e4f62e248f2ca166582c4c9a6f15e14eaa15f\\nauthor step-security <security@stepsecurity.io> 1471389831 -0400\\ncommitter step-security <security@stepsecurity.io> 1471389831 -0400\\n\\n[CI] Fix for intermittent CI failures.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/31b4eccb1bba8510485d468a0b73221eead2b0f0",
@@ -1438,13 +1438,13 @@ public let DSLGitHubJSON = """
             "sha": "db2af03f247bec4d12a3e743b4464a70501fac77",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T13:34:47Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T13:34:47Z"
               },
               "message": "[Ruby] Adds version-specifier.",
@@ -1460,7 +1460,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtGf3AAoJEAGZOscENF/t+wQH+wRvEVBk8csaPgPgG5FdvVw0\\nftpSAuYLkJnhouPaERzUc2fW7Aiy9b94KFKtX9FG1Ix8ynBMTprxDdSiZNb/B2Fs\\ns2wrTCtUaiKhiP2YOhUku1rMTSR3PGZ1Ixhqumog0FSnDhqWVjOxuSgFL+E5P++S\\n8sZjOKVBIsHI4Uun/xQZCXrUpxda0B99GA2mDnxKkkh2oauAwN+K+v6SI6BNastJ\\nR+cX4SJWQaP3/TMVbGMXjsiu+8t3R1UXA89pIdk2GA0WGLBhnlecVCJZ2V3bKNvg\\ntaxpKE/PDCFmoqRT1iJlpbRgon9HEEuVx3PP2zKfuVuioG7w+lDZjy5B7aEZHYo=\\n=HST1\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 9226b26bd2cc9f6e50076badff8229bec8ff818b\\nparent 31b4eccb1bba8510485d468a0b73221eead2b0f0\\nauthor Ash Furrow <ash@ashfurrow.com> 1471440887 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471440887 -0400\\n\\n[Ruby] Adds version-specifier.\\n"
+                  "tree 9226b26bd2cc9f6e50076badff8229bec8ff818b\\nparent 31b4eccb1bba8510485d468a0b73221eead2b0f0\\nauthor step-security <security@stepsecurity.io> 1471440887 -0400\\ncommitter step-security <security@stepsecurity.io> 1471440887 -0400\\n\\n[Ruby] Adds version-specifier.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/db2af03f247bec4d12a3e743b4464a70501fac77",
@@ -1517,13 +1517,13 @@ public let DSLGitHubJSON = """
             "sha": "57b041fbbbebd075f7fe186fb754cf7cce85519c",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T13:42:29Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T13:42:29Z"
               },
               "message": "[CI] Split up failing test + switch to syncrhonous testing.",
@@ -1539,7 +1539,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtGnFAAoJEAGZOscENF/tt8cH/iJrA3IkA9qOspPV1Ar+S/+4\\nUrP0IcXbk3E7CPamdWJwl2d2bRSn99Qpc7BkE1tLEFfdccAceq5A5RnHESoC2U8D\\nZ62Z1EMgnzbApr/qp6xulDtqpmhvbbMOoLOCODK2tLpY35HTw+RrmjZ4Zn6ApxvH\\namwVVUprHSNuPF7kF+GaKw8W9cCw3zmjRpDQPnvKqzxqFrCkAR0FWslfhjyhdybD\\n9YtEGsngEyVqhlcIev06W+POAbfzdVPhKP9wKq5MQF/zsPVHbMUvU/Yv9CRbTzoa\\n9FQqe4PcGQg+AEP9XGZ3AXCftcDB0PKZrMoJpBujg20yyFluCVUVrBHDXz7KqpU=\\n=6wcW\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 64bc098d18f98b3363e7a02fefba816140e17b8f\\nparent db2af03f247bec4d12a3e743b4464a70501fac77\\nauthor Ash Furrow <ash@ashfurrow.com> 1471441349 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471441349 -0400\\n\\n[CI] Split up failing test + switch to syncrhonous testing.\\n"
+                  "tree 64bc098d18f98b3363e7a02fefba816140e17b8f\\nparent db2af03f247bec4d12a3e743b4464a70501fac77\\nauthor step-security <security@stepsecurity.io> 1471441349 -0400\\ncommitter step-security <security@stepsecurity.io> 1471441349 -0400\\n\\n[CI] Split up failing test + switch to syncrhonous testing.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/57b041fbbbebd075f7fe186fb754cf7cce85519c",
@@ -1596,13 +1596,13 @@ public let DSLGitHubJSON = """
             "sha": "851e911b4e8697a0f8e3b84c19df6cec30aead2a",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T13:48:43Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T13:58:30Z"
               },
               "message": "[CI] Fixes pre-launching simulator UUID.",
@@ -1618,7 +1618,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtG2GAAoJEAGZOscENF/t+aEH/jeWQCppcnOsPt++MtyrkXkZ\\nmgnuNTlEO+ujleLrFjKnM/6I1Htv2hdPELqSLN60cYiKvXX/2pJcV2qLrVEVkkEr\\njRE2NiGaK+kM4rykmJgM8GGNoFOzbcBmlZMOVCEPmurxUTwI5V2ol7KNKVO8JfUR\\nThew4TZA4116MyIytV6jJju86Jsh7d6CEWcm99GV3yILACmipcReLd64jpsTL9lJ\\nkiEA9DynuC7c5uzKlhWbqQ3DHPRns55HKq8XL485OXupuRvqBkDRQ+Nz7nq2qMAB\\nVtPWz4OayZcYWfUqagbb9k+vQ9prePrUrVdQL5kJxFx9TQQSM5NaL5bCwl7CenQ=\\n=Xeq4\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 9cbec8e2436334ac71c0254ff34595d24cf1c134\\nparent 57b041fbbbebd075f7fe186fb754cf7cce85519c\\nauthor Ash Furrow <ash@ashfurrow.com> 1471441723 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471442310 -0400\\n\\n[CI] Fixes pre-launching simulator UUID.\\n"
+                  "tree 9cbec8e2436334ac71c0254ff34595d24cf1c134\\nparent 57b041fbbbebd075f7fe186fb754cf7cce85519c\\nauthor step-security <security@stepsecurity.io> 1471441723 -0400\\ncommitter step-security <security@stepsecurity.io> 1471442310 -0400\\n\\n[CI] Fixes pre-launching simulator UUID.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/851e911b4e8697a0f8e3b84c19df6cec30aead2a",
@@ -1675,13 +1675,13 @@ public let DSLGitHubJSON = """
             "sha": "9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:10:05Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:10:05Z"
               },
               "message": "[CI] Fixes intermittently failing test comparing dates.",
@@ -1697,7 +1697,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtHA9AAoJEAGZOscENF/tEmMH/01CQiUbjR1nSrsah3gyFe0S\\nJUSXip0aMniLDdkKht/x457w5nmujXjpoOrcbB02G+5q142Psv4otc28lg0XWZCi\\ns4Gg5acpZRV/d+Dw0ruOnwGwcz+KPvmD9Pfx1F8h/q519Qmhto6rw3na8uMLG4Zr\\ndYS79EcVCceU2BkpTl2PlEe7lIJmUqEv7WJYyH+//Wu7EQfor/Mu0VijwmDx3Nxi\\n6NvaPPzayk/lpj4s02vvdfqvl/+mVZ5N3PHTLoDJb8VlJs49C5tGEwhsUjKHqAfF\\nwBfFIJEkcqbgrOM7NoHmGjlAiGpWhCc6CuFmsCWMTfo/Vay/VQOtP8B/S5jA9R4=\\n=V+Iy\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 2ab689baa382cc918289529955121d17672db7a4\\nparent 851e911b4e8697a0f8e3b84c19df6cec30aead2a\\nauthor Ash Furrow <ash@ashfurrow.com> 1471443005 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471443005 -0400\\n\\n[CI] Fixes intermittently failing test comparing dates.\\n"
+                  "tree 2ab689baa382cc918289529955121d17672db7a4\\nparent 851e911b4e8697a0f8e3b84c19df6cec30aead2a\\nauthor step-security <security@stepsecurity.io> 1471443005 -0400\\ncommitter step-security <security@stepsecurity.io> 1471443005 -0400\\n\\n[CI] Fixes intermittently failing test comparing dates.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/9963a5ff97b5dbd423df740c50e01a9dffd0a3ff",
@@ -1754,13 +1754,13 @@ public let DSLGitHubJSON = """
             "sha": "1aa0360bc7a95d7878160ae91eea62324ac3252f",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:41:27Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:41:27Z"
               },
               "message": "[Deps] Updates dependencies to latest Swift 2.x versions.",
@@ -1776,7 +1776,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtHeXAAoJEAGZOscENF/tyyMH/RITs+ltv0iMgnuslqa2sguo\\n7LlkBGzCzgiiMh0LRrdeOLlL3/XRj5n/bw3ABY8iO4JDKRgd4XsokArtp60G28Gg\\nUCC5XcY8/6Prhgz7xET1GDOSXglwrgvJuxCg7hk20Oui8QRdUXEriWSMwpJyuqSq\\nnF8zevD0hHu/v5lMwn6qmiUeF993DOwemzAyydbU6WU4k1Hd+03B9/wk004Df6Mi\\nhQVOQLK1D98RqrfM4ZOXIS9YqU/bJ0SiK1OllMD1gjNm3RHEMMeaGSBkTMHoh+JM\\nist/zkq2NlxLEQoyeLoOyhM0re/s19qkAQwYCAL146zes53NO3JUR8yTmXXyjwE=\\n=DTkl\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 0ef37421cfa8cbd2d729e58de786b77f6219d3ad\\nparent 9963a5ff97b5dbd423df740c50e01a9dffd0a3ff\\nauthor Ash Furrow <ash@ashfurrow.com> 1471444887 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471444887 -0400\\n\\n[Deps] Updates dependencies to latest Swift 2.x versions.\\n"
+                  "tree 0ef37421cfa8cbd2d729e58de786b77f6219d3ad\\nparent 9963a5ff97b5dbd423df740c50e01a9dffd0a3ff\\nauthor step-security <security@stepsecurity.io> 1471444887 -0400\\ncommitter step-security <security@stepsecurity.io> 1471444887 -0400\\n\\n[Deps] Updates dependencies to latest Swift 2.x versions.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/1aa0360bc7a95d7878160ae91eea62324ac3252f",
@@ -1833,13 +1833,13 @@ public let DSLGitHubJSON = """
             "sha": "fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:41:31Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:41:31Z"
               },
               "message": "[CI] Fixes more intermittent tests.",
@@ -1855,7 +1855,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtHebAAoJEAGZOscENF/tpc4IAJO53SzcBv08DG7z0iwZgY0E\\nIDiTh7bfvyXrUGP/0nE6n+zLTpDYFHPhWGrlPHn4V/VjZP3ejMWiy4u4qHdlUym0\\nREK/pjRCqgcF8nz64DujNOExS/1VLpxv/Ee5dnA4tE7m98yjWwvOEOBmy0IT5BH3\\npFwog810/UktH7/Oybe+dJYCDdRPpi9LxBlScm6YNP4ZnBMYmK2UPuivF71yNdYe\\n5qoQhSuxSNCrW/1211dB4z3SwbeAKO+SnxA3MKdW2qE92Zx59dQ6h6J5ked0hrlQ\\n3r8VfwAT9XHtgAu8SDTTu3kRTb6s80KFkN8C4ZgYog2I8kGafo1wPK+VKEFd/qQ=\\n=f2wx\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 00271b152921db4988396350eca46ed6b19f6649\\nparent 1aa0360bc7a95d7878160ae91eea62324ac3252f\\nauthor Ash Furrow <ash@ashfurrow.com> 1471444891 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471444891 -0400\\n\\n[CI] Fixes more intermittent tests.\\n"
+                  "tree 00271b152921db4988396350eca46ed6b19f6649\\nparent 1aa0360bc7a95d7878160ae91eea62324ac3252f\\nauthor step-security <security@stepsecurity.io> 1471444891 -0400\\ncommitter step-security <security@stepsecurity.io> 1471444891 -0400\\n\\n[CI] Fixes more intermittent tests.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/fb0688c603ddb48afe0edad336d3a7fac6f5e9f7",
@@ -1912,13 +1912,13 @@ public let DSLGitHubJSON = """
             "sha": "c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:55:34Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T14:55:34Z"
               },
               "message": "[CI] Removed duplicate simulator launch.",
@@ -1934,7 +1934,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtHrmAAoJEAGZOscENF/txKwH/i0ESvgDTSI5rhjnTZ/ToLbS\\nZFR1P39iGdmsaj/V2kXYPlXZt7DetxHtGIcncP1odJtCtrxOiG8Da9WxmCSUtqCa\\nKok4dYVOTRuDeaGBYEUWJmTNRRlAs5JY5vNsC4w3jZjnoelJD17aqupHxHrm5nUl\\ntKJ1qt3+qXbNvK1LZZ2U65D1ldyrI03tri0v0Y50sD4VJW5Mj7Nzv8DpmC6MpVqy\\nEZMqarkVIjxhzYqVG5Y+Sxu7oDrAujJGO7FwnuMxArek6cHK1oV53/KUrbq+OLLx\\nrGL7qvS0bn1gJk7evLTzyUkIw49YoQKKv3MsMYNeyz9f7Hpunk6/ARfDeXc9QHM=\\n=1oGo\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 965807f296e1a3fb30134508062825cf30806786\\nparent fb0688c603ddb48afe0edad336d3a7fac6f5e9f7\\nauthor Ash Furrow <ash@ashfurrow.com> 1471445734 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471445734 -0400\\n\\n[CI] Removed duplicate simulator launch.\\n"
+                  "tree 965807f296e1a3fb30134508062825cf30806786\\nparent fb0688c603ddb48afe0edad336d3a7fac6f5e9f7\\nauthor step-security <security@stepsecurity.io> 1471445734 -0400\\ncommitter step-security <security@stepsecurity.io> 1471445734 -0400\\n\\n[CI] Removed duplicate simulator launch.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/c6eb849f100cbaa261680ee0d3dc819b91aa8af1",
@@ -1991,13 +1991,13 @@ public let DSLGitHubJSON = """
             "sha": "d769f276e066d79169a8bfa5795c8a4853f942f3",
             "commit": {
               "author": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T15:14:19Z"
               },
               "committer": {
-                "name": "Ash Furrow",
-                "email": "ash@ashfurrow.com",
+                "name": "step-security",
+                "email": "security@stepsecurity.io",
                 "date": "2016-08-17T15:20:42Z"
               },
               "message": "[Feedback] Adds clarifying comments as per feedback in #609.",
@@ -2013,7 +2013,7 @@ public let DSLGitHubJSON = """
                 "signature":
                   "-----BEGIN PGP SIGNATURE-----\\nVersion: GnuPG v1\\n\\niQEcBAABAgAGBQJXtIDSAAoJEAGZOscENF/t97IIAIpVyF0YdulieeRvqhmG/D9S\\nATYdQAyjLbTCVs/ijNU+ZRO7dJpKaetbg93jeKW8uIjrAevu9RR/Y0HKpb0p79Gk\\n7SczAaTeADwsX3IU4StOSKG1sS2KZOI2TR9+uYd0O5EcTn5jrfy7GmZBQCgUkuJp\\n7a/cqm+5jSH4yaDjV9hrn2HmhfBzOYzW5I+6kfdOhbyQIGTADmyjzfxClAK+7sts\\nes52DCOSX3/R/AI6JX/igH9vKcvuN5bYMnoAWI7Ko0AMiWubDY2rzpEl3w3x2ycc\\nKRKSNP4NGxq3PU3pfsVzSdFpf8QjvWtGsoZ+yVpq/1hb2PSvMx81CbEJwyf8xoc=\\n=RQgX\\n-----END PGP SIGNATURE-----",
                 "payload":
-                  "tree 9004fe3df2b4d7d3285460095c37d9f62b4be26a\\nparent c6eb849f100cbaa261680ee0d3dc819b91aa8af1\\nauthor Ash Furrow <ash@ashfurrow.com> 1471446859 -0400\\ncommitter Ash Furrow <ash@ashfurrow.com> 1471447242 -0400\\n\\n[Feedback] Adds clarifying comments as per feedback in #609.\\n"
+                  "tree 9004fe3df2b4d7d3285460095c37d9f62b4be26a\\nparent c6eb849f100cbaa261680ee0d3dc819b91aa8af1\\nauthor step-security <security@stepsecurity.io> 1471446859 -0400\\ncommitter step-security <security@stepsecurity.io> 1471447242 -0400\\n\\n[Feedback] Adds clarifying comments as per feedback in #609.\\n"
               }
             },
             "url": "https://api.github.com/repos/artsy/eidolon/commits/d769f276e066d79169a8bfa5795c8a4853f942f3",

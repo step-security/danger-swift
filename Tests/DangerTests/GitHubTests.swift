@@ -194,7 +194,7 @@ final class GitHubTests: XCTestCase {
     func test_GitHubIssue_decode() throws {
         let data = Data(GitHubIssueJSON.utf8)
 
-        let user = GitHub.User(id: 2_538_074, login: "davdroman", userType: .user)
+        let user = GitHub.User(id: 2_538_074, login: "step-security", userType: .user)
         let correctIssue = GitHub.Issue(
             id: 447_357_592,
             number: 96,
@@ -221,7 +221,7 @@ final class GitHubTests: XCTestCase {
     func test_GitHubIssue_emptyBody_decode() throws {
         let data = Data(GitHubEmptyBodyIssueJSON.utf8)
 
-        let user = GitHub.User(id: 2_538_074, login: "davdroman", userType: .user)
+        let user = GitHub.User(id: 2_538_074, login: "step-security", userType: .user)
         let correctIssue = GitHub.Issue(
             id: 447_357_592,
             number: 96,
