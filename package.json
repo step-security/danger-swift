@@ -8,6 +8,6 @@
     "proseWrap": "always"
   },
   "dependencies": {
-    "prettier": "^1.15.3"
+    "prettier": "^3.9.6"
   }
 }
