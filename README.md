@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     name: "Run Danger"
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Danger
         uses: step-security/danger-swift@v3
         with:
@@ -82,9 +82,9 @@ jobs:
     runs-on: ubuntu-latest
     name: "Run Danger"
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Danger
-        uses: docker://ghcr.io/step-security/danger-swift:3.15.0
+        uses: docker://ghcr.io/step-security/danger-swift:3.22.1
         with:
             args: --failOnErrors --no-publish-check
         env:

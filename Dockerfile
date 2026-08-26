@@ -1,7 +1,7 @@
 ARG SWIFT_VERSION=5.9
 FROM swift:${SWIFT_VERSION}-focal
 
-LABEL org.opencontainers.image.authors="Orta Therox"
+LABEL org.opencontainers.image.authors="step-security"
 
 LABEL "com.github.actions.name"="Danger Swift"
 LABEL "com.github.actions.description"="Runs Swift Dangerfiles"
@@ -11,7 +11,7 @@ LABEL "com.github.actions.color"="blue"
 # Install nodejs and Danger
 RUN apt-get update -q \
     && apt-get install -qy curl make ca-certificates \
-    && curl -fsSL https://deb.nodesource.com/setup_24.x | bash - \
+    && curl -fsSL https://deb.nodesource.com/setup_22.x | bash - \
     && apt-get install -qy nodejs \
     && npm install -g danger \
     && rm -r /var/lib/apt/lists/*
