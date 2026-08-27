@@ -1,0 +1,30 @@
+# Ubuntu 20.04 (focal) is EOL - fixes for the following CVEs are not backported.
+# This is a short-lived CI action (runs, posts a comment, exits) with no persistent
+
+# libc6, libc-bin, libc6-dev, libc-dev-bin - core system library
+# CVE-2025-4802: Affects static setuid binaries using dlopen to search LD_LIBRARY_PATH.
+# This image has no setuid binaries, so the vulnerable code path is never triggered.
+CVE-2025-4802
+
+# krb5-locales, libkrb5-3, libkrb5support0, libk5crypto3, libgssapi-krb5-2 - curl dependency
+# CVE-2025-3576: Kerberos RC4-HMAC-MD5 checksum vulnerability enabling message spoofing.
+# This container authenticates to GitHub via HTTPS token only - Kerberos is never used.
+CVE-2025-3576
+
+# libglib2.0-0, libglib2.0-data - system dependency
+# CVE-2025-4373: Buffer underflow in g_string_insert_unichar() in GLib.
+# danger-swift does not call GLib string functions directly or pass external input through them.
+CVE-2025-4373
+
+# libsqlite3-0 - Swift Foundation dependency
+# CVE-2025-29088: Denial of Service via crafted SQL in SQLite.
+# Swift Foundation uses SQLite internally for its own storage - no external or
+# attacker-controlled SQL is processed by this action.
+CVE-2025-29088
+
+# libxml2, libxml2-dev - Swift Foundation dependency
+# CVE-2025-32414, CVE-2025-32415: Out-of-bounds reads in libxml2 triggered by malformed XML.
+# danger-swift only processes JSON responses from the GitHub API - no XML is parsed
+# from external input, so the vulnerable code path cannot be reached.
+CVE-2025-32414
+CVE-2025-32415
