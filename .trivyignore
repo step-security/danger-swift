@@ -1,5 +1,118 @@
 # Ubuntu 20.04 (focal) is EOL - fixes for the following CVEs are not backported.
 # This is a short-lived CI action (runs, posts a comment, exits) with no persistent
+# network exposure, so the attack surface for each CVE is negligible.
+
+# linux-libc-dev - kernel header files required at runtime by the Swift compiler.
+# danger-swift compiles Dangerfile.swift on every run, so linux-libc-dev cannot be removed.
+# NOTE: These CVEs are in the Linux kernel itself, NOT in the header files provided by
+# linux-libc-dev. Container images do not run their own kernel — they share the host kernel.
+# Trivy flags linux-libc-dev because it maps kernel CVEs to the user-space headers package,
+# but the headers are static files that cannot be exploited through container workloads.
+# Exploitation would require a vulnerable host kernel, which is outside the scope of this image.
+CVE-2023-52664
+CVE-2023-52927
+CVE-2024-26689
+CVE-2024-58055
+CVE-2024-58083
+CVE-2025-21647
+CVE-2025-21703
+CVE-2025-21704
+CVE-2025-21715
+CVE-2025-21718
+CVE-2025-21735
+CVE-2025-21760
+CVE-2025-21761
+CVE-2025-21762
+CVE-2025-21763
+CVE-2025-21764
+CVE-2025-21772
+CVE-2025-21791
+CVE-2025-21858
+CVE-2025-21926
+CVE-2021-47119
+CVE-2021-47191
+CVE-2023-52741
+CVE-2024-26915
+CVE-2024-26996
+CVE-2024-35958
+CVE-2024-49974
+CVE-2024-50055
+CVE-2024-50256
+CVE-2024-53237
+CVE-2024-56651
+CVE-2024-57973
+CVE-2024-57977
+CVE-2024-57980
+CVE-2024-57981
+CVE-2024-57986
+CVE-2024-58001
+CVE-2024-58002
+CVE-2024-58007
+CVE-2024-58009
+CVE-2024-58010
+CVE-2024-58014
+CVE-2024-58017
+CVE-2024-58020
+CVE-2024-58051
+CVE-2024-58052
+CVE-2024-58058
+CVE-2024-58063
+CVE-2024-58069
+CVE-2024-58071
+CVE-2024-58085
+CVE-2024-58090
+CVE-2025-21700
+CVE-2025-21702
+CVE-2025-21708
+CVE-2025-21719
+CVE-2025-21721
+CVE-2025-21722
+CVE-2025-21728
+CVE-2025-21736
+CVE-2025-21744
+CVE-2025-21749
+CVE-2025-21753
+CVE-2025-21765
+CVE-2025-21776
+CVE-2025-21781
+CVE-2025-21787
+CVE-2025-21806
+CVE-2025-21814
+CVE-2025-21823
+CVE-2025-21835
+CVE-2025-21846
+CVE-2025-21859
+CVE-2025-21862
+CVE-2025-21865
+CVE-2025-21866
+CVE-2025-21871
+CVE-2025-21877
+CVE-2025-21898
+CVE-2025-21904
+CVE-2025-21909
+CVE-2025-21910
+CVE-2025-21914
+CVE-2025-21916
+CVE-2025-21917
+CVE-2025-21920
+CVE-2025-21922
+CVE-2025-21925
+CVE-2025-21935
+CVE-2025-21948
+CVE-2025-21971
+CVE-2024-26982
+CVE-2024-46826
+CVE-2024-56599
+CVE-2024-57979
+CVE-2024-58072
+CVE-2025-21731
+CVE-2025-21782
+CVE-2025-21785
+CVE-2025-21811
+CVE-2025-21848
+CVE-2025-21905
+CVE-2025-21928
+CVE-2025-21934
 
 # libc6, libc-bin, libc6-dev, libc-dev-bin - core system library
 # CVE-2025-4802: Affects static setuid binaries using dlopen to search LD_LIBRARY_PATH.

@@ -22,7 +22,7 @@ RUN curl -L -o swiftlint.zip https://github.com/realm/SwiftLint/releases/downloa
 # Install danger-swift globally
 COPY . _danger-swift
 RUN cd _danger-swift && make install && rm -rf _danger-swift \
-    && apt-get remove --purge -y linux-libc-dev openssh-client \
+    && apt-get remove --purge -y openssh-client \
     && apt-get autoremove -y \
     && apt-get clean
 
