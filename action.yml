@@ -4,5 +4,5 @@ branding:
   icon: zap
   color: blue
 runs:
-  using: docker
-  image: Dockerfile
+  using: "docker"
+  image: "docker://ghcr.io/step-security/danger-swift:v3.22.1@sha256:37951deaeb0b8f4d7335df62167017af73c421dc91b47323e63ebf0c3f5e1c0c" # v3.22.1
