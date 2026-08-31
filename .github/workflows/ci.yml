@@ -149,7 +149,7 @@ jobs:
 
     - run: echo ${{ matrix.swift }} > .swift-version
 
-    - uses: YOCKOW/Action-setup-swift@ae70a36dab70b6ad2c31a114b1bb3dc19ac392d0 # v1.1.34
+    - uses: YOCKOW/Action-setup-swift@44716b617de67a86a8fcd216b01206a46f8d511d # v1.2.0
 
     - run: swift test --enable-test-discovery
 
@@ -251,7 +251,7 @@ jobs:
 
     - run: echo ${{ matrix.swift }} > .swift-version
 
-    - uses: YOCKOW/Action-setup-swift@ae70a36dab70b6ad2c31a114b1bb3dc19ac392d0 # v1.1.34
+    - uses: YOCKOW/Action-setup-swift@44716b617de67a86a8fcd216b01206a46f8d511d # v1.2.0
     
     - run: sudo chmod -R a+rwx /usr/local
 
