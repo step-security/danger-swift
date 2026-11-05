@@ -11,7 +11,11 @@ LABEL "com.github.actions.color"="blue"
 # Install nodejs and Danger
 RUN apt-get update -q \
     && apt-get install -qy curl make ca-certificates \
+<<<<<<< 0ff9392fe7e7e25c0d14918ea216b98d79226265
     && curl -fsSL https://deb.nodesource.com/setup_22.x | bash - \
+=======
+    && curl -sL https://deb.nodesource.com/setup_24.x |  bash - \
+>>>>>>> 26259de25008b663686470037554671078e81558
     && apt-get install -qy nodejs \
     && npm install -g danger \
     && rm -r /var/lib/apt/lists/*

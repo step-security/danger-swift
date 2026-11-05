@@ -1,4 +1,5 @@
 name: "Danger Swift"
+author: step-security
 description: "Runs Swift Dangerfiles"
 branding:
   icon: zap
