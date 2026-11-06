@@ -1,0 +1,12 @@
+{
+  "$comment": "Managed automatically when syncing with upstream. Do not edit by hand.",
+  "schema_version": 1,
+  "onboarding_type": "copied",
+  "action_type": "docker",
+  "upstream": {
+    "repository": "danger/swift",
+    "synced_tag": "3.23.1",
+    "synced_commit": "8c6b77e0fea1f94290cff0dcd30c87dd93342dca",
+    "archived": false
+  }
+}
