@@ -6,4 +6,4 @@ branding:
   color: blue
 runs:
   using: "docker"
-  image: "docker://ghcr.io/step-security/danger-swift:v3.22.1@sha256:37951deaeb0b8f4d7335df62167017af73c421dc91b47323e63ebf0c3f5e1c0c" # v3.22.1
+  image: "docker://ghcr.io/step-security/danger-swift-with-swiftlint:v3.23.1@sha256:b4b4068291c2b7ce2687b3cd11ca3bf153e57f58e31f0914f2976a863756fc96" # v3.23.1
